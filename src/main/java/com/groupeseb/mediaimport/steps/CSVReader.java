@@ -1,8 +1,8 @@
-package com.groupeseb.mediaimport;
+package com.groupeseb.mediaimport.steps;
 
 import com.groupeseb.csvtobean.core.CSVParserService;
 import com.groupeseb.csvtobean.exceptions.CSVToBeanException;
-import com.groupeseb.mediaimport.dto.TechniqueDTO;
+import com.groupeseb.mediaimport.model.TechniqueDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

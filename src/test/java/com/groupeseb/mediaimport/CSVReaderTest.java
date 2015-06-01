@@ -1,7 +1,8 @@
 package com.groupeseb.mediaimport;
 
 import com.groupeseb.csvtobean.exceptions.CSVToBeanException;
-import com.groupeseb.mediaimport.dto.TechniqueDTO;
+import com.groupeseb.mediaimport.model.TechniqueDTO;
+import com.groupeseb.mediaimport.steps.CSVReader;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

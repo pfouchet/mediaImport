@@ -1,4 +1,4 @@
-package com.groupeseb.mediaimport.dto;
+package com.groupeseb.mediaimport.model;
 
 import com.groupeseb.csvtobean.annotations.CSVField;
 import com.groupeseb.csvtobean.annotations.CSVSegment;
