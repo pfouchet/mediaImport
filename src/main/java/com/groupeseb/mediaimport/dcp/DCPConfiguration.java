@@ -4,7 +4,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 import retrofit.RequestInterceptor;
 import retrofit.RestAdapter;
@@ -13,12 +12,19 @@ import retrofit.RestAdapter;
 @Slf4j
 public class DCPConfiguration {
 
-	private final RestAdapter restAdapter;
+	private final String host;
+	private final String apiKey;
 
 	@Autowired
 	public DCPConfiguration(@Value("${dcp.host}") String host,
 	                        @Value("puVdQHQNS3rjx2e8RDWMhkTmyGkXLCdC") final String apiKey) {
-		restAdapter = new RestAdapter.Builder()
+		this.apiKey = apiKey;
+		this.host = host;
+	}
+
+	@Bean
+	DCP dcp() {
+		return new RestAdapter.Builder()
 				.setEndpoint(host)
 				.setRequestInterceptor(new RequestInterceptor() {
 					@Override
@@ -35,11 +41,27 @@ public class DCPConfiguration {
 						log.debug(message);
 					}
 				})
-				.build();
+				.build().create(DCP.class);
 	}
 
 	@Bean
-	DCP dcp() {
-		return restAdapter.create(DCP.class);
+	DCPMedia dcpMedia() {
+		return new RestAdapter.Builder()
+				.setEndpoint(host)
+				.setRequestInterceptor(new RequestInterceptor() {
+					@Override
+					public void intercept(RequestFacade request) {
+						request.addHeader("apiKey", apiKey);
+						request.addHeader("Accept", "application/json");
+					}
+				})
+				.setLogLevel(RestAdapter.LogLevel.FULL)
+				.setLog(new RestAdapter.Log() {
+					@Override
+					public void log(String message) {
+						log.debug(message);
+					}
+				})
+				.build().create(DCPMedia.class);
 	}
 }
