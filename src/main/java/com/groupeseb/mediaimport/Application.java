@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 import retrofit.RetrofitError;
 
 import java.io.IOException;
-import java.util.List;
+import java.util.Collection;
 
 @Slf4j
 @Configuration
@@ -39,7 +39,7 @@ public class Application implements CommandLineRunner {
 	@Override
 	public void run(String... strings) throws Exception {
 
-		List<TechniqueDTO> techniques = reader.getCSVTechnique("input/CSVMedia_technique_UTF8.csv");
+		Collection<TechniqueDTO> techniques = reader.getCSVTechnique("input/CSVMedia_technique_UTF8.csv");
 
 		for (TechniqueDTO techniqueDTO : techniques) {
 			try {
