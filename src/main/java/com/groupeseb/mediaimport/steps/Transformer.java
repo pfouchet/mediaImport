@@ -1,8 +1,9 @@
 package com.groupeseb.mediaimport.steps;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
-import com.groupeseb.mediaimport.dcp.DCP;
-import com.groupeseb.mediaimport.dcp.DCPMedia;
+import com.groupeseb.mediaimport.apis.DCP;
+import com.groupeseb.mediaimport.apis.DCPMedia;
+import com.groupeseb.mediaimport.apis.MediaReader;
 import com.groupeseb.mediaimport.exception.MediaImportException;
 import com.groupeseb.mediaimport.model.TechniqueDTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
@@ -14,6 +15,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
+import java.util.UUID;
 
 @Slf4j
 @Component
@@ -54,6 +56,7 @@ public class Transformer {
 		ResourceMedia rm = new ResourceMedia();
 		rm.setCaptionTitle(rmDTO.getCaptionTitle());
 		rm.setMedia(createMedia(rmDTO));
+		rm.setUid(UUID.randomUUID().toString());
 		return dcp.createResourceMedia(rm);
 	}
 }
