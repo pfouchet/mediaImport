@@ -13,6 +13,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
+import java.io.IOException;
 import java.util.List;
 
 @Slf4j
@@ -48,7 +49,7 @@ Envoi des techniques à la common-api
 		for (TechniqueDTO techniqueDTO : techniques) {
 			try {
 				writer.write(transformer.createTechnique(techniqueDTO));
-			}catch(MediaImportException e) {
+			}catch(MediaImportException | IOException e) {
 				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
 			}
 		}
