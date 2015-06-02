@@ -9,7 +9,6 @@ import com.groupeseb.mediaimport.steps.mapper.Mapper;
 import com.groupeseb.ofs.core.model.media.Media;
 import com.groupeseb.ofs.core.model.resourcemedia.ResourceMedia;
 import com.groupeseb.ofs.core.model.technique.Technique;
-import com.squareup.okhttp.ResponseBody;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -21,7 +20,6 @@ import java.io.IOException;
 public class Transformer {
 
 	private final DCP dcp;
-	private final DCPMedia dcpMedia;
 	private final MediaReader mediaReader;
 	private final Mapper mapper;
 
@@ -31,7 +29,6 @@ public class Transformer {
 		this.dcp = dcp;
 		this.mapper = mapper;
 		this.mediaReader = mediaReader;
-		this.dcpMedia = dcpMedia;
 	}
 
 	public Technique createTechnique(TechniqueDTO techniqueDTO) throws MediaImportException, IOException {
@@ -43,16 +40,11 @@ public class Transformer {
 		return technique;
 	}
 
-	private MediaLite createMedia(String url) throws IOException {
-		ResponseBody responseBody = mediaReader.read(url);
-		return dcpMedia.createMedia(responseBody.byteStream());
-	}
-
 	private Media createMedia(TechniqueDTO.ResourceMediaDTO rmDTO) throws IOException {
-		Media media = mapper.map(createMedia(rmDTO.getOriginalUrl()), Media.class);
+		Media media = mapper.map(mediaReader.createMedia(rmDTO.getOriginalUrl()), Media.class);
 
-		if (rmDTO.getThumbnailUrl() != null) {
-			MediaLite thumbnailMedia = createMedia(rmDTO.getThumbnailUrl());
+		if (rmDTO.getThumbnailUrl() != null && !rmDTO.getThumbnailUrl().isEmpty()) {
+			MediaLite thumbnailMedia = mediaReader.createMedia(rmDTO.getThumbnailUrl());
 			media.setThumbnailUrl(thumbnailMedia.getThumbnail());
 		}
 		return media;

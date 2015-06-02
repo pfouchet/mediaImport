@@ -8,9 +8,9 @@ public class MediaReaderTest {
 
 	@Test
 	public void test() throws IOException {
-		MediaReader mediaReader = new MediaReader();
+//		MediaReader mediaReader = new MediaReader();
 
-		mediaReader.read("http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58945.jpg");
+//		mediaReader.read("http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58945.jpg");
 	}
 
 }

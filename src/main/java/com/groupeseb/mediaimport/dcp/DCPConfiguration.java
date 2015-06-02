@@ -38,7 +38,7 @@ public class DCPConfiguration {
 				.setLog(new RestAdapter.Log() {
 					@Override
 					public void log(String message) {
-						log.debug(message);
+						log.info(message);
 					}
 				})
 				.build().create(DCP.class);
@@ -55,11 +55,11 @@ public class DCPConfiguration {
 						request.addHeader("Accept", "application/json");
 					}
 				})
-				.setLogLevel(RestAdapter.LogLevel.FULL)
+				.setLogLevel(RestAdapter.LogLevel.HEADERS_AND_ARGS)
 				.setLog(new RestAdapter.Log() {
 					@Override
 					public void log(String message) {
-						log.debug(message);
+						log.info(message);
 					}
 				})
 				.build().create(DCPMedia.class);
