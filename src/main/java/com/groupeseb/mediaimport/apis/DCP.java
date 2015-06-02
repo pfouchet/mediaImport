@@ -1,4 +1,4 @@
-package com.groupeseb.mediaimport.dcp;
+package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.ofs.core.model.resourcemedia.ResourceMedia;
 import com.groupeseb.ofs.core.model.technique.Technique;
@@ -14,7 +14,7 @@ public interface DCP {
 	@GET("/references/techniques/{id}")
 	public Technique getTechnique(@Path("id") String id);
 
-	@POST("/references/resourceMedia")
+	@POST("/references/resourceMedias")
 	public ResourceMedia createResourceMedia(@Body ResourceMedia resourceMedia);
 
 	@PUT("/references/techniques/{techniqueId}")

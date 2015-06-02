@@ -1,4 +1,4 @@
-package com.groupeseb.mediaimport.dcp;
+package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
 import retrofit.http.Multipart;

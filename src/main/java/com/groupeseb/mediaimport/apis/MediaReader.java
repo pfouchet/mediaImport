@@ -1,7 +1,6 @@
-package com.groupeseb.mediaimport.steps;
+package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
-import com.groupeseb.mediaimport.dcp.DCPMedia;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;

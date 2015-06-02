@@ -1,7 +1,7 @@
 package com.groupeseb.mediaimport;
 
-import com.groupeseb.mediaimport.model.TechniqueDTO;
 import com.groupeseb.mediaimport.exception.MediaImportException;
+import com.groupeseb.mediaimport.model.TechniqueDTO;
 import com.groupeseb.mediaimport.steps.CSVReader;
 import com.groupeseb.mediaimport.steps.Transformer;
 import com.groupeseb.mediaimport.steps.Writer;
@@ -12,6 +12,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import retrofit.RetrofitError;
 
 import java.io.IOException;
 import java.util.List;
@@ -38,18 +39,12 @@ public class Application implements CommandLineRunner {
 	@Override
 	public void run(String... strings) throws Exception {
 
-/*
-Création des ResourceMedia
-Création des Media avec appel common-api (si video, télécharger le thumbnail et ajouter son url)
-récupération des techniques
-Maj des techniques
-Envoi des techniques à la common-api
- */
-		List<TechniqueDTO> techniques = reader.getCSVTechnique("CSVMedia_technique_UTF8.csv");
+		List<TechniqueDTO> techniques = reader.getCSVTechnique("input/CSVMedia_technique_UTF8.csv");
+
 		for (TechniqueDTO techniqueDTO : techniques) {
 			try {
 				writer.write(transformer.createTechnique(techniqueDTO));
-			}catch(MediaImportException | IOException e) {
+			} catch (MediaImportException | IOException | RetrofitError e) {
 				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
 			}
 		}

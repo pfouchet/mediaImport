@@ -1,6 +1,6 @@
 package com.groupeseb.mediaimport.steps;
 
-import com.groupeseb.mediaimport.dcp.DCP;
+import com.groupeseb.mediaimport.apis.DCP;
 import com.groupeseb.mediaimport.exception.MediaImportException;
 import com.groupeseb.ofs.core.model.technique.Technique;
 import lombok.extern.slf4j.Slf4j;
