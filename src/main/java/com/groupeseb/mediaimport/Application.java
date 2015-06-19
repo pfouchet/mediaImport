@@ -21,6 +21,9 @@ import java.util.Collection;
 @Configuration
 @EnableAutoConfiguration
 @ComponentScan("com.groupeseb")
+/* cannot use @Application because default componentScan does not
+	look into com.groupeseb.csvtobean
+ */
 public class Application implements CommandLineRunner {
 
 	@Autowired
