@@ -77,18 +77,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.groupeseb.core</groupId>
-            <artifactId>ofs-core-model</artifactId>
-            <version>5.2.8</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>*</groupId>
-                    <artifactId>*</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-
-        <dependency>
             <groupId>com.groupeseb.bus</groupId>
             <artifactId>common-api-model</artifactId>
             <version>2.5.0</version>
@@ -98,6 +86,18 @@
                     <artifactId>*</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>com.groupeseb.core</groupId>
+            <artifactId>ofs-core-model</artifactId>
+            <version>5.3.1.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>4.3.1.Final</version>
         </dependency>
 
         <dependency>
@@ -116,6 +116,11 @@
             <groupId>ma.glasnost.orika</groupId>
             <artifactId>orika-core</artifactId>
             <version>1.4.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.squareup.retrofit</groupId>
+            <artifactId>converter-jackson</artifactId>
+            <version>1.7.1</version>
         </dependency>
 
     </dependencies>

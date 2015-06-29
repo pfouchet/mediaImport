@@ -13,6 +13,7 @@ import retrofit.mime.TypedOutput;
 
 import java.io.IOException;
 import java.io.OutputStream;
+import java.util.concurrent.TimeUnit;
 
 @Slf4j
 @Component
@@ -29,6 +30,10 @@ public class MediaReader {
 		if (url != null && !url.isEmpty()) {
 
 			OkHttpClient client = new OkHttpClient();
+
+			client.setConnectTimeout(100, TimeUnit.MINUTES);
+			client.setReadTimeout(100, TimeUnit.MINUTES);
+			client.setWriteTimeout(100, TimeUnit.MINUTES);
 
 			Request request = new Request.Builder()
 					.url(url)

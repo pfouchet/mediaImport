@@ -37,6 +37,7 @@ public class Transformer {
 		Technique technique = dcp.getTechnique(techniqueDTO.getKey());
 		TechniqueDTO.ResourceMediaDTO resourceMediaDTO = techniqueDTO.getMedias().get(0);
 
+		technique.getMedias().clear();
 		technique.getMedias().add(createResourceMedia(resourceMediaDTO));
 
 		return technique;
@@ -57,6 +58,6 @@ public class Transformer {
 		rm.setCaptionTitle(rmDTO.getCaptionTitle());
 		rm.setMedia(createMedia(rmDTO));
 		rm.setUid(UUID.randomUUID().toString());
-		return dcp.createResourceMedia(rm);
+		return rm;
 	}
 }

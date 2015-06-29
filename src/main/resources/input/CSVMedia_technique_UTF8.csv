@@ -1,4 +1,5 @@
 ﻿# key	medias[0].media.originalUrl	medias[0].media.thumbnailUrl	medias[0].captionTitle.localizations[0].market	medias[0].captionTitle.localizations[0].lang	medias[0].captionTitle.localizations[0].value
+TECHNIQUE_100807	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8188.jpg		GS_FR	fr	Oignon émincé
 TECHNIQUE_101855	http://monactifry.prod.apipro.groupe-seb.com/videos/58945.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58945.jpg	GS_NL	nl	Sperziebonen snijden
 TECHNIQUE_101846	http://monactifry.prod.apipro.groupe-seb.com/videos/58932.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58932.jpg	GS_NL	nl	Aardappels drogen
 TECHNIQUE_101852	http://monactifry.prod.apipro.groupe-seb.com/videos/58941.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58941.jpg	GS_NL	nl	Ananas
@@ -17,8 +18,7 @@ TECHNIQUE_101849	http://monactifry.prod.apipro.groupe-seb.com/videos/58936.mp4	h
 TECHNIQUE_101843	http://monactifry.prod.apipro.groupe-seb.com/videos/58929.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58929.jpg	GS_NL	nl	Voeg een ActiFry lepel olie toe
 TECHNIQUE_101854	http://monactifry.prod.apipro.groupe-seb.com/videos/58944.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58944.jpg	GS_NL	nl	Zaadjes uit paprika verwijderen
 TECHNIQUE_101847	http://monactifry.prod.apipro.groupe-seb.com/videos/58933.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58933.jpg	GS_NL	nl	Zelf frietjes maken
-TECHNIQUE_101782					
-TECHNIQUE_100807	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8188.jpg		GS_FR	fr	Oignon émincé
+TECHNIQUE_101782
 TECHNIQUE_100808	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8189.jpg		GS_FR	fr	Echalote émincée
 TECHNIQUE_100809	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8190.jpg		GS_FR	fr	Ail émincé
 TECHNIQUE_100810	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8191.jpg		GS_FR	fr	Aneth émincé

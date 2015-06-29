@@ -42,6 +42,7 @@ public class Application implements CommandLineRunner {
 	@Override
 	public void run(String... strings) throws Exception {
 
+		int failCounter = 0;
 		Collection<TechniqueDTO> techniques = reader.getCSVTechnique("input/CSVMedia_technique_UTF8.csv");
 
 		for (TechniqueDTO techniqueDTO : techniques) {
@@ -49,6 +50,8 @@ public class Application implements CommandLineRunner {
 				writer.write(transformer.createTechnique(techniqueDTO));
 			} catch (MediaImportException | IOException | RetrofitError e) {
 				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
+				failCounter ++;
+				log.warn("There were {} techniques in error", failCounter);
 			}
 		}
 
