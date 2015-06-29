@@ -50,7 +50,7 @@ public class Application implements CommandLineRunner {
 				writer.write(transformer.createTechnique(techniqueDTO));
 			} catch (MediaImportException | IOException | RetrofitError e) {
 				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
-				failCounter ++;
+				failCounter++;
 				log.warn("There were {} techniques in error", failCounter);
 			}
 		}
