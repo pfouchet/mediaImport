@@ -11,29 +11,27 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
 import retrofit.RetrofitError;
 
 import java.io.IOException;
 import java.util.Collection;
 
 @Slf4j
-@Configuration
 @EnableAutoConfiguration
-@ComponentScan("com.groupeseb")
+@ComponentScan({"com.groupeseb.mediaimport", "com.groupeseb.csvtobean", "com.groupeseb.bus.commonapi.parser"})
 /* cannot use @Application because default componentScan does not
 	look into com.groupeseb.csvtobean
  */
 public class Application implements CommandLineRunner {
 
 	@Autowired
-	CSVReader reader;
+	private CSVReader reader;
 
 	@Autowired
-	Transformer transformer;
+	private Transformer transformer;
 
 	@Autowired
-	Writer writer;
+	private Writer writer;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);

@@ -8,11 +8,14 @@ import com.squareup.okhttp.Response;
 import com.squareup.okhttp.ResponseBody;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import retrofit.mime.TypedOutput;
 
 import java.io.IOException;
 import java.io.OutputStream;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
 import java.util.concurrent.TimeUnit;
 
 @Slf4j
@@ -20,10 +23,13 @@ import java.util.concurrent.TimeUnit;
 public class MediaReader {
 
 	private final DCPMedia dcpMedia;
+	private final boolean shouldUseProxy;
 
 	@Autowired
-	public MediaReader(DCPMedia dcpMedia) {
+	public MediaReader(DCPMedia dcpMedia,
+	                   @Value("${use.apipro.proxy}") boolean shouldUseProxy) {
 		this.dcpMedia = dcpMedia;
+		this.shouldUseProxy = shouldUseProxy;
 	}
 
 	private ResponseBody read(String url) throws IOException {
@@ -34,6 +40,9 @@ public class MediaReader {
 			client.setConnectTimeout(100, TimeUnit.MINUTES);
 			client.setReadTimeout(100, TimeUnit.MINUTES);
 			client.setWriteTimeout(100, TimeUnit.MINUTES);
+			if (shouldUseProxy) {
+				client.setProxy(new Proxy(Proxy.Type.HTTP, new InetSocketAddress("gateway.seb.zscaler.net", 80)));
+			}
 
 			Request request = new Request.Builder()
 					.url(url)

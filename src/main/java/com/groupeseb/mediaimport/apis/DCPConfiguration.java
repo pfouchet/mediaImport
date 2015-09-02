@@ -3,8 +3,8 @@ package com.groupeseb.mediaimport.apis;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;
 import com.fasterxml.jackson.databind.ser.std.StdSerializer;
-import com.groupeseb.mediaimport.mapper.deserializer.Deserializer;
-import com.groupeseb.mediaimport.mapper.serializer.AbstractRefDataSerializer;
+import com.groupeseb.bus.commonapi.parser.deserializer.Deserializer;
+import com.groupeseb.bus.commonapi.parser.serializer.AbstractRefDataSerializer;
 import com.squareup.okhttp.OkHttpClient;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,20 +30,20 @@ public class DCPConfiguration {
 
 	@Autowired
 	public DCPConfiguration(@Value("${dcp.host:http://dev.api.openfoodsystem.com/common-api}") String host,
-	                        @Value("puVdQHQNS3rjx2e8RDWMhkTmyGkXLCdC") final String apiKey,
-	                        List<AbstractRefDataSerializer> refDataSerializers,
-	                        List<Deserializer> deserializers
-	                        ) {
+	                        @Value("puVdQHQNS3rjx2e8RDWMhkTmyGkXLCdC") String apiKey,
+	                        List<AbstractRefDataSerializer<?>> refDataSerializers,
+	                        List<Deserializer<?>> deserializers
+	) {
 		this.apiKey = apiKey;
 		this.host = host;
 
 		SimpleModule module = new SimpleModule();
 
-		for (StdSerializer serializer : refDataSerializers) {
+		for (StdSerializer<?> serializer : refDataSerializers) {
 			module.addSerializer(serializer);
 		}
 
-		for (Deserializer deserializer : deserializers) {
+		for (Deserializer<?> deserializer : deserializers) {
 			module.addDeserializer(deserializer.getParameterizedClass(), deserializer);
 		}
 
@@ -72,12 +72,7 @@ public class DCPConfiguration {
 				.setConverter(new JacksonConverter(mapper))
 				.setClient(new OkClient(httpClient))
 				.setLogLevel(RestAdapter.LogLevel.FULL)
-				.setLog(new RestAdapter.Log() {
-					@Override
-					public void log(String message) {
-						log.info(message);
-					}
-				})
+				.setLog(new ApplicationLog())
 				.build().create(DCP.class);
 	}
 
@@ -100,12 +95,14 @@ public class DCPConfiguration {
 				})
 				.setClient(new OkClient(httpClient))
 				.setLogLevel(RestAdapter.LogLevel.HEADERS_AND_ARGS)
-				.setLog(new RestAdapter.Log() {
-					@Override
-					public void log(String message) {
-						log.info(message);
-					}
-				})
+				.setLog(new ApplicationLog())
 				.build().create(DCPMedia.class);
+	}
+
+	private static class ApplicationLog implements RestAdapter.Log {
+		@Override
+		public void log(String message) {
+			log.info(message);
+		}
 	}
 }

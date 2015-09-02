@@ -11,6 +11,7 @@ import com.groupeseb.ofs.core.model.media.Media;
 import com.groupeseb.ofs.core.model.resourcemedia.ResourceMedia;
 import com.groupeseb.ofs.core.model.technique.Technique;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -24,7 +25,6 @@ public class Transformer {
 	private final DCP dcp;
 	private final MediaReader mediaReader;
 	private final Mapper mapper;
-
 
 	@Autowired
 	public Transformer(DCP dcp, Mapper mapper, MediaReader mediaReader, DCPMedia dcpMedia) {
@@ -46,7 +46,7 @@ public class Transformer {
 	private Media createMedia(TechniqueDTO.ResourceMediaDTO rmDTO) throws IOException {
 		Media media = mapper.map(mediaReader.createMedia(rmDTO.getOriginalUrl()), Media.class);
 
-		if (rmDTO.getThumbnailUrl() != null && !rmDTO.getThumbnailUrl().isEmpty()) {
+		if (StringUtils.isNotBlank(rmDTO.getThumbnailUrl())) {
 			MediaLite thumbnailMedia = mediaReader.createMedia(rmDTO.getThumbnailUrl());
 			media.setThumbnailUrl(thumbnailMedia.getThumbnail());
 		}
