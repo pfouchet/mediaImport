@@ -1,6 +1,8 @@
 package com.groupeseb.mediaimport;
 
+import com.groupeseb.mediaimport.exception.AlreadyImportedException;
 import com.groupeseb.mediaimport.exception.MediaImportException;
+import com.groupeseb.mediaimport.model.ApplianceDTO;
 import com.groupeseb.mediaimport.model.TechniqueDTO;
 import com.groupeseb.mediaimport.steps.CSVReader;
 import com.groupeseb.mediaimport.steps.Transformer;
@@ -37,22 +39,45 @@ public class Application implements CommandLineRunner {
 		SpringApplication.run(Application.class, args);
 	}
 
-	// RefData version : 5.3.3.1
+	// RefData version : 5.3.5.3
+	// erreur sur TECHNIQUE_101842
+//	@Override
+//	public void run(String... strings) throws Exception {
+//
+//		int failCounter = 0;
+//		Collection<TechniqueDTO> techniques = reader.getCSVTechnique("input/Media_technique2.csv");
+//
+//		for (TechniqueDTO techniqueDTO : techniques) {
+//			try {
+//				writer.write(transformer.createTechnique(techniqueDTO));
+//			} catch (MediaImportException | IOException | RetrofitError e) {
+//				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
+//				failCounter++;
+//			}
+//		}
+//		log.warn("There were {} techniques in error", failCounter);
+//
+//	}
+
 	@Override
 	public void run(String... strings) throws Exception {
 
 		int failCounter = 0;
-		Collection<TechniqueDTO> techniques = reader.getCSVTechnique("input/CSVMedia_technique_UTF8.csv");
+		int skipCounter = 0;
+		Collection<ApplianceDTO> dtos = reader.getAppliances("/input/appliances");
 
-		for (TechniqueDTO techniqueDTO : techniques) {
+		for (ApplianceDTO dto : dtos) {
 			try {
-				writer.write(transformer.createTechnique(techniqueDTO));
+				writer.write(transformer.createAppliance(dto));
 			} catch (MediaImportException | IOException | RetrofitError e) {
-				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
+				log.error("Exception occurred while handling {}", dto.getKey(), e);
 				failCounter++;
-				log.warn("There were {} techniques in error", failCounter);
+			} catch(AlreadyImportedException e) {
+				skipCounter++;
 			}
 		}
+		log.warn("There were {} appliances in error", failCounter);
+		log.warn("There were {} appliances skipped", skipCounter);
 
 	}
 }

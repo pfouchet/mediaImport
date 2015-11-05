@@ -1,17 +1,22 @@
 package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
+import com.groupeseb.mediaimport.model.ApplianceDTO;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
 import com.squareup.okhttp.Response;
 import com.squareup.okhttp.ResponseBody;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import retrofit.mime.TypedOutput;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
@@ -60,22 +65,33 @@ public class MediaReader {
 
 	public MediaLite createMedia(String url) throws IOException {
 		ResponseBody responseBody = read(url);
-		return dcpMedia.createMedia(new MediaTypedOutput(responseBody.contentType(), responseBody.bytes()));
+		return dcpMedia.createMedia(new MediaTypedOutput(StringUtils.substringAfterLast(url, "."),
+		                                                 responseBody.contentType(),
+		                                                 responseBody.bytes()));
+	}
+
+	public MediaLite createMedia(ApplianceDTO dto) throws IOException {
+		return dcpMedia.createMedia(new MediaTypedOutput(dto.getExtension(),
+		                                                 MediaType.parse("image/png"),
+		                                                 IOUtils.toByteArray(dto.getInputStream())));
 	}
 
 	public static class MediaTypedOutput implements TypedOutput {
 
+		private final String extension;
+
 		private final MediaType mediaType;
 		private final byte[] bytes;
 
-		public MediaTypedOutput(MediaType mediaType, byte[] bytes) {
+		public MediaTypedOutput(String extension, MediaType mediaType, byte[] bytes) {
+			this.extension = extension;
 			this.mediaType = mediaType;
 			this.bytes = bytes;
 		}
 
 		@Override
 		public String fileName() {
-			return "file";
+			return "file." + extension;
 		}
 
 		@Override
