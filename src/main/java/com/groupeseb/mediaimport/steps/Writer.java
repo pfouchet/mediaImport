@@ -1,10 +1,9 @@
 package com.groupeseb.mediaimport.steps;
 
 import com.groupeseb.mediaimport.apis.DCP;
-import com.groupeseb.mediaimport.exception.MediaImportException;
-import com.groupeseb.ofs.core.model.appliance.Appliance;
-import com.groupeseb.ofs.core.model.technique.Technique;
+import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import lombok.extern.slf4j.Slf4j;
+import org.atteo.evo.inflector.English;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -20,15 +19,14 @@ public class Writer {
 		this.dcp = dcp;
 	}
 
-	public void write(Technique technique) throws MediaImportException {
-		dcp.updateTechiques(technique.getKey(), technique);
+	public void write(LocalizedKeyValue lkv) {
+		if (lkv != null) {
+			dcp.updateLKV(getPlural(lkv.getClass()), lkv.getKey(), lkv);
+		}
 	}
 
-	public void write(Appliance appliance) throws MediaImportException {
-		//TODO refactorer!
-		if(appliance != null) {
-			dcp.updateAppliance(appliance.getKey(), appliance);
-		}
+	private static String getPlural(Class<? extends LocalizedKeyValue> lkvClazz) {
+		return English.plural(lkvClazz.getSimpleName().toLowerCase());
 	}
 
 }

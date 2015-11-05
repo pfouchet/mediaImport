@@ -11,13 +11,18 @@ import java.util.List;
 import java.util.Map;
 
 @Data
-public class TechniqueDTO {
+public class TechniqueDTO implements DTO{
 
 	@CSVField
 	private String key;
 
 	@CSVSegment(parameterType = ResourceMediaDTO.class)
 	private List<ResourceMediaDTO> medias;
+
+	@Override
+	public boolean isMediaEmpty() {
+		return medias.isEmpty() || medias.get(0).getOriginalUrl().isEmpty();
+	}
 
 	@Data
 	public static class ResourceMediaDTO {

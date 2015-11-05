@@ -7,7 +7,7 @@ import java.io.InputStream;
 
 @Data
 @AllArgsConstructor
-public class ApplianceDTO {
+public class ApplianceDTO implements DTO {
 
 	private String key;
 
@@ -15,4 +15,8 @@ public class ApplianceDTO {
 
 	private InputStream inputStream;
 
+	@Override
+	public boolean isMediaEmpty() {
+		return inputStream != null;
+	}
 }

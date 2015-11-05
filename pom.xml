@@ -17,6 +17,7 @@
 	<properties>
 		<bus.version>3.0.7</bus.version>
 		<ofs-core-model.version>5.3.4</ofs-core-model.version>
+		<java.version>1.7</java.version>
 	</properties>
 
 	<dependencies>
@@ -37,6 +38,12 @@
 			<groupId>com.squareup.retrofit</groupId>
 			<artifactId>retrofit</artifactId>
 			<version>1.9.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.atteo</groupId>
+			<artifactId>evo-inflector</artifactId>
+			<version>1.2.1</version>
 		</dependency>
 
 		<dependency>
@@ -173,11 +180,6 @@
 		</dependency>
 
 	</dependencies>
-
-	<properties>
-		<java.version>1.7</java.version>
-	</properties>
-
 
 	<build>
 		<plugins>

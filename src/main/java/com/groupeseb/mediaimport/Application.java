@@ -1,12 +1,12 @@
 package com.groupeseb.mediaimport;
 
-import com.groupeseb.mediaimport.exception.AlreadyImportedException;
-import com.groupeseb.mediaimport.exception.MediaImportException;
-import com.groupeseb.mediaimport.model.ApplianceDTO;
-import com.groupeseb.mediaimport.model.TechniqueDTO;
-import com.groupeseb.mediaimport.steps.CSVReader;
-import com.groupeseb.mediaimport.steps.Transformer;
+import com.google.common.base.Preconditions;
+import com.groupeseb.mediaimport.exception.nonterminal.AlreadyImportedException;
+import com.groupeseb.mediaimport.exception.nonterminal.MediaImportException;
+import com.groupeseb.mediaimport.model.DTO;
 import com.groupeseb.mediaimport.steps.Writer;
+import com.groupeseb.mediaimport.steps.reader.ReaderPicker;
+import com.groupeseb.mediaimport.steps.transformer.TransformerPicker;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -27,10 +27,10 @@ import java.util.Collection;
 public class Application implements CommandLineRunner {
 
 	@Autowired
-	private CSVReader reader;
+	private ReaderPicker reader;
 
 	@Autowired
-	private Transformer transformer;
+	private TransformerPicker transformerPicker;
 
 	@Autowired
 	private Writer writer;
@@ -39,45 +39,34 @@ public class Application implements CommandLineRunner {
 		SpringApplication.run(Application.class, args);
 	}
 
-	// RefData version : 5.3.5.3
-	// erreur sur TECHNIQUE_101842
-//	@Override
-//	public void run(String... strings) throws Exception {
-//
-//		int failCounter = 0;
-//		Collection<TechniqueDTO> techniques = reader.getCSVTechnique("input/Media_technique2.csv");
-//
-//		for (TechniqueDTO techniqueDTO : techniques) {
-//			try {
-//				writer.write(transformer.createTechnique(techniqueDTO));
-//			} catch (MediaImportException | IOException | RetrofitError e) {
-//				log.error("Exception occurred while handling {}", techniqueDTO.getKey(), e);
-//				failCounter++;
-//			}
-//		}
-//		log.warn("There were {} techniques in error", failCounter);
-//
-//	}
 
+	/**
+	 * input/Media_technique_UTF8.csv
+	 * input/appliances
+	 */
 	@Override
 	public void run(String... strings) throws Exception {
 
+		Collection<DTO> dtos = reader.getDTOs(
+				Preconditions.checkNotNull(strings[0], "Resource name should be supplied to the program"),
+				Preconditions.checkNotNull(strings[1], "source file path should be supplied to the program"));
+
+		log.info("There are {} {} to import", dtos.size(), strings[0]);
+
 		int failCounter = 0;
 		int skipCounter = 0;
-		Collection<ApplianceDTO> dtos = reader.getAppliances("/input/appliances");
-
-		for (ApplianceDTO dto : dtos) {
+		for (DTO dto : dtos) {
 			try {
-				writer.write(transformer.createAppliance(dto));
+				writer.write(transformerPicker.transform(dto));
 			} catch (MediaImportException | IOException | RetrofitError e) {
 				log.error("Exception occurred while handling {}", dto.getKey(), e);
 				failCounter++;
-			} catch(AlreadyImportedException e) {
+			} catch (AlreadyImportedException ignored) {
 				skipCounter++;
 			}
 		}
-		log.warn("There were {} appliances in error", failCounter);
-		log.warn("There were {} appliances skipped", skipCounter);
+		log.warn("There were {} {} in error", strings[0], failCounter);
+		log.warn("There were {} {} skipped", strings[0], skipCounter);
 
 	}
 }
