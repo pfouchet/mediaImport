@@ -4,8 +4,8 @@ This program allows one to update reference data with Media. Currently appliance
 
 Those settings are needed :
 
-VM options : -Ddcp.host=http://'host'/common-api -Duse.apipro.proxy=true -Droot.log.path=C:\var\log\ofs\mediaImport
-program arguments : 'resourceName' 'filePathWithoutStartingSlash'
+* VM options : -Ddcp.host=http://'host'/common-api -Duse.apipro.proxy=true -Droot.log.path=C:\var\log\ofs\mediaImport
+* program arguments : 'resourceName' 'filePathWithoutStartingSlash'
 
 It mimics ETL and was designed to be quick & dirty.
 A good thing could be to implement using Talend.
