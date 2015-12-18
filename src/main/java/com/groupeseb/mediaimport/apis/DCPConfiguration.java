@@ -16,6 +16,8 @@ import retrofit.RestAdapter;
 import retrofit.client.OkClient;
 import retrofit.converter.JacksonConverter;
 
+import java.net.InetSocketAddress;
+import java.net.Proxy;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -58,6 +60,7 @@ public class DCPConfiguration {
 		httpClient.setConnectTimeout(100, TimeUnit.MINUTES);
 		httpClient.setReadTimeout(100, TimeUnit.MINUTES);
 		httpClient.setWriteTimeout(100, TimeUnit.MINUTES);
+//		httpClient.setProxy(new Proxy(Proxy.Type.SOCKS, new InetSocketAddress("gateway.seb.zscaler.net", 80)));
 
 		return new RestAdapter.Builder()
 				.setEndpoint(host)
