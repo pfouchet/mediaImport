@@ -41,6 +41,8 @@ public class Application implements CommandLineRunner {
 
 
 	/**
+	 * Program argument may be one of the following
+	 *
 	 * input/5_3_6_2_Media_technique_UTF8.csv
 	 * input/appliances
 	 */

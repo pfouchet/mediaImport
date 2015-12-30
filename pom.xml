@@ -15,8 +15,8 @@
 	</parent>
 
 	<properties>
-		<bus.version>3.0.7</bus.version>
-		<ofs-core-model.version>5.3.4</ofs-core-model.version>
+		<bus.version>3.5.0</bus.version>
+		<ofs-core-model.version>5.3.6.2</ofs-core-model.version>
 		<java.version>1.7</java.version>
 	</properties>
 

@@ -10,6 +10,6 @@ public interface DCPMedia {
 
 	@POST("/statics/upload")
 	@Multipart
-	public MediaLite createMedia(@Part("file") TypedOutput media);
+	MediaLite createMedia(@Part("file") TypedOutput media);
 
 }
