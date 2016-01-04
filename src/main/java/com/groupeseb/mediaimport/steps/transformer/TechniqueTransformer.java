@@ -60,6 +60,7 @@ public class TechniqueTransformer implements ITransformer {
 		rm.setCaptionTitle(rmDTO.getCaptionTitle());
 		rm.setMedia(createMedia(rmDTO));
 		rm.setUid(UUID.randomUUID().toString());
+		rm.setIsCoverMedia(true);
 		return rm;
 	}
 

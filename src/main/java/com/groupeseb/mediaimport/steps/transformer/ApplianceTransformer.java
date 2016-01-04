@@ -38,6 +38,7 @@ public class ApplianceTransformer implements ITransformer {
 
 		rm.setMedia(media1);
 		rm.setUid(UUID.randomUUID().toString());
+		rm.setIsCoverMedia(true);
 		return rm;
 	}
 
