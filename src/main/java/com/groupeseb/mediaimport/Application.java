@@ -45,6 +45,7 @@ public class Application implements CommandLineRunner {
 	 *
 	 * input/5_3_6_2_Media_technique_UTF8.csv
 	 * input/appliances
+	 * input/kitchenwares
 	 */
 	@Override
 	public void run(String... strings) throws Exception {

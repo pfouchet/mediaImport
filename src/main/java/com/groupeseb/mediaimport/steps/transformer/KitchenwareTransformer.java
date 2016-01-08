@@ -3,12 +3,12 @@ package com.groupeseb.mediaimport.steps.transformer;
 import com.groupeseb.mediaimport.apis.DCP;
 import com.groupeseb.mediaimport.apis.DCPMedia;
 import com.groupeseb.mediaimport.apis.MediaReader;
-import com.groupeseb.mediaimport.model.ApplianceDTO;
-import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.groupeseb.mediaimport.model.DTO;
+import com.groupeseb.mediaimport.model.KitchenwareDTO;
+import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
-import com.groupeseb.ofs.core.model.appliance.Appliance;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
+import com.groupeseb.ofs.core.model.kitchenware.Kitchenware;
 import com.groupeseb.ofs.core.model.media.Media;
 import com.groupeseb.ofs.core.model.resourcemedia.ResourceMedia;
 import lombok.extern.slf4j.Slf4j;
@@ -20,14 +20,14 @@ import java.util.UUID;
 
 @Slf4j
 @Component
-public class ApplianceTransformer implements ITransformer {
+public class KitchenwareTransformer implements ITransformer {
 
 	private final DCP dcp;
 	private final MediaReader mediaReader;
 	private final Mapper mapper;
 
 	@Autowired
-	public ApplianceTransformer(DCP dcp, Mapper mapper, MediaReader mediaReader, DCPMedia dcpMedia) {
+	public KitchenwareTransformer(DCP dcp, Mapper mapper, MediaReader mediaReader, DCPMedia dcpMedia) {
 		this.dcp = dcp;
 		this.mapper = mapper;
 		this.mediaReader = mediaReader;
@@ -39,27 +39,26 @@ public class ApplianceTransformer implements ITransformer {
 
 		rm.setMedia(media1);
 		rm.setUid(UUID.randomUUID().toString());
-		rm.setIsCoverMedia(true);
 		return rm;
 	}
 
-	public Appliance createAppliance(LKVFileDTO dto) throws IOException {
-		Appliance appliance = dcp.getAppliance(dto.getKey());
+	public Kitchenware createKitchenware(LKVFileDTO dto) throws IOException {
+		Kitchenware lkv = dcp.getKitchenware(dto.getKey());
 
-		appliance.getMedias().clear();
+		lkv.getMedias().clear();
 
-		appliance.getMedias().add(createResourceMedia(dto));
+		lkv.getMedias().add(createResourceMedia(dto));
 
-		return appliance;
+		return lkv;
 	}
 
 	@Override
 	public boolean isApplicable(Class<?> clazz) {
-		return ApplianceDTO.class.isAssignableFrom(clazz);
+		return KitchenwareDTO.class.isAssignableFrom(clazz);
 	}
 
 	@Override
 	public LocalizedKeyValue transform(DTO dto) throws IOException {
-		return createAppliance((LKVFileDTO) dto);
+		return createKitchenware((LKVFileDTO) dto);
 	}
 }
