@@ -1,8 +1,7 @@
 package com.groupeseb.mediaimport.steps.reader;
 
-import com.groupeseb.mediaimport.model.ApplianceDTO;
-import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.groupeseb.mediaimport.model.DTO;
+import com.groupeseb.mediaimport.model.KitchenwareDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Component;
@@ -14,22 +13,22 @@ import java.util.List;
 
 @Component
 @Slf4j
-public class ApplianceReader implements IReader {
+public class KitchenwareReader implements IReader {
 
-	private static final String RESOURCE_NAME = "appliances";
+	private static final String RESOURCE_NAME = "kitchenwares";
 
 	@Override
 	public Collection<DTO> getDTO(String filename) {
 
 		List<DTO> appliances = new ArrayList<>();
 
-		for (int i = 0; i < 10000; i++) {
+		for (int i = 0; i < 10005; i++) {
 
-			InputStream stream = getClass().getResourceAsStream(String.format("/%s/APPLIANCE_%s/Principal.png",
+			InputStream stream = getClass().getResourceAsStream(String.format("/%s/KITCHENWARE_%s/principal.png",
 			                                                                  filename,
 			                                                                  i));
 			if (stream != null) {
-				appliances.add(new ApplianceDTO("APPLIANCE_" + i, "png", stream));
+				appliances.add(new KitchenwareDTO("KITCHENWARE_" + i, "png", stream));
 			}
 		}
 

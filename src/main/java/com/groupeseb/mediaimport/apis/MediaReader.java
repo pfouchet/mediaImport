@@ -1,7 +1,7 @@
 package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
-import com.groupeseb.mediaimport.model.ApplianceDTO;
+import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
@@ -15,8 +15,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import retrofit.mime.TypedOutput;
 
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
@@ -70,7 +68,7 @@ public class MediaReader {
 		                                                 responseBody.bytes()));
 	}
 
-	public MediaLite createMedia(ApplianceDTO dto) throws IOException {
+	public MediaLite createMedia(LKVFileDTO dto) throws IOException {
 		return dcpMedia.createMedia(new MediaTypedOutput(dto.getExtension(),
 		                                                 MediaType.parse("image/png"),
 		                                                 IOUtils.toByteArray(dto.getInputStream())));

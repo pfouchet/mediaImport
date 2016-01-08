@@ -2,6 +2,7 @@ package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.ofs.core.model.appliance.Appliance;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
+import com.groupeseb.ofs.core.model.kitchenware.Kitchenware;
 import com.groupeseb.ofs.core.model.technique.Technique;
 import retrofit.client.Response;
 import retrofit.http.Body;
@@ -16,6 +17,9 @@ public interface DCP {
 
 	@GET("/references/appliances/{id}")
 	Appliance getAppliance(@Path("id") String id);
+
+	@GET("/references/kitchenwares/{id}")
+	Kitchenware getKitchenware(@Path("id") String id);
 
 	@PUT("/references/{resource}/{lkvKey}")
 	Response updateLKV(@Path("resource") String resource, @Path("lkvKey") String lkvKey, @Body LocalizedKeyValue lkv);
