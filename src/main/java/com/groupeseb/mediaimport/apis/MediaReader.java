@@ -74,6 +74,12 @@ public class MediaReader {
 		                                                 IOUtils.toByteArray(dto.getInputStream())));
 	}
 
+	public MediaLite createText(LKVFileDTO dto) throws IOException {
+		return dcpMedia.createMedia(new MediaTypedOutput(dto.getExtension(),
+		                                                 MediaType.parse("text/plain"),
+		                                                 IOUtils.toByteArray(dto.getInputStream())));
+	}
+
 	public static class MediaTypedOutput implements TypedOutput {
 
 		private final String extension;

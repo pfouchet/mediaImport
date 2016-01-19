@@ -3,6 +3,7 @@ package com.groupeseb.mediaimport.apis;
 import com.groupeseb.ofs.core.model.appliance.Appliance;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import com.groupeseb.ofs.core.model.kitchenware.Kitchenware;
+import com.groupeseb.ofs.core.model.program.Program;
 import com.groupeseb.ofs.core.model.technique.Technique;
 import retrofit.client.Response;
 import retrofit.http.Body;
@@ -20,6 +21,10 @@ public interface DCP {
 	@GET("/references/appliances/{id}")
 	@Headers("Accept: application/x-extended+json")
 	Appliance getAppliance(@Path("id") String id);
+
+	@GET("/references/programs/{id}")
+	@Headers("Accept: application/x-extended+json")
+	Program getProgram(@Path("id") String id);
 
 	@GET("/references/kitchenwares/{id}")
 	Kitchenware getKitchenware(@Path("id") String id);
