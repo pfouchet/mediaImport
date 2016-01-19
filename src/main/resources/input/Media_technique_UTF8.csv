@@ -1,495 +1,563 @@
-# key	medias[0].media.originalUrl	medias[0].media.thumbnailUrl	medias[0].captionTitle.localizations[0].market	medias[0].captionTitle.localizations[0].lang	medias[0].captionTitle.localizations[0].value
-TECHNIQUE_101842	http://monactifry.prod.apipro.groupe-seb.com/videos/58928.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58928.jpg	GS_NL	nl	Fijngesneden ui
-TECHNIQUE_101855	http://monactifry.prod.apipro.groupe-seb.com/videos/58945.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58945.jpg	GS_NL	nl	Sperziebonen snijden
-TECHNIQUE_101846	http://monactifry.prod.apipro.groupe-seb.com/videos/58932.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58932.jpg	GS_NL	nl	Aardappels drogen
-TECHNIQUE_101852	http://monactifry.prod.apipro.groupe-seb.com/videos/58941.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58941.jpg	GS_NL	nl	Ananas
-TECHNIQUE_101848	http://monactifry.prod.apipro.groupe-seb.com/videos/58935.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58935.jpg	GS_NL	nl	De schil gebruiken
-TECHNIQUE_101850	http://monactifry.prod.apipro.groupe-seb.com/videos/58939.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58939.jpg	GS_NL	nl	Gehaktbal
-TECHNIQUE_101859	http://monactifry.prod.apipro.groupe-seb.com/videos/58950.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58950.jpg	GS_NL	nl	Groenten
-TECHNIQUE_101853	http://monactifry.prod.apipro.groupe-seb.com/videos/58943.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58943.jpg	GS_NL	nl	Knoflook snijden
-TECHNIQUE_101851	http://monactifry.prod.apipro.groupe-seb.com/videos/58940.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58940_1.jpg	GS_NL	nl	Ananas snijden
-TECHNIQUE_101856	http://monactifry.prod.apipro.groupe-seb.com/videos/58946.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58946.jpg	GS_NL	nl	Schaaldieren
-TECHNIQUE_101844	http://monactifry.prod.apipro.groupe-seb.com/videos/58930.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58930.jpg	GS_NL	nl	Snijd bloemkool in roosjes
-TECHNIQUE_101845	http://monactifry.prod.apipro.groupe-seb.com/videos/58931.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58931.jpg	GS_NL	nl	Snijd in reepjes
-TECHNIQUE_101858	http://monactifry.prod.apipro.groupe-seb.com/videos/58948.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58948.jpg	GS_NL	nl	Tomaat schoonmaken
-TECHNIQUE_101857	http://monactifry.prod.apipro.groupe-seb.com/videos/58947.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58947.jpg	GS_NL	nl	Ui in reepjes
-TECHNIQUE_101849	http://monactifry.prod.apipro.groupe-seb.com/videos/58936.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58936.jpg	GS_NL	nl	Vlees
-TECHNIQUE_101843	http://monactifry.prod.apipro.groupe-seb.com/videos/58929.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58929.jpg	GS_NL	nl	Voeg een ActiFry lepel olie toe
-TECHNIQUE_101854	http://monactifry.prod.apipro.groupe-seb.com/videos/58944.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58944.jpg	GS_NL	nl	Zaadjes uit paprika verwijderen
-TECHNIQUE_101847	http://monactifry.prod.apipro.groupe-seb.com/videos/58933.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58933.jpg	GS_NL	nl	Zelf frietjes maken
-TECHNIQUE_101782					
-TECHNIQUE_100807	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8188.jpg		GS_FR	fr	Oignon émincé
-TECHNIQUE_100808	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8189.jpg		GS_FR	fr	Echalote émincée
-TECHNIQUE_100809	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8190.jpg		GS_FR	fr	Ail émincé
-TECHNIQUE_100810	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8191.jpg		GS_FR	fr	Aneth émincé
-TECHNIQUE_100811	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8192.jpg		GS_FR	fr	Champignon émincé
-TECHNIQUE_100812	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8193.jpg		GS_FR	fr	Gingembre émincé
-TECHNIQUE_100804	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8194.jpg		GS_FR	fr	Basilic ciselé
-TECHNIQUE_100805	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8195.jpg		GS_FR	fr	Cerfeuil ciselé
-TECHNIQUE_100806	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8196.jpg		GS_FR	fr	Estragon ciselé
-TECHNIQUE_100803	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8197.jpg		GS_FR	fr	Echalote ciselée
-TECHNIQUE_100799	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8199.jpg		GS_FR	fr	Découpe en rosettes de choux fleur
-TECHNIQUE_100800	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8200.jpg		GS_FR	fr	Découpe en rosettes de Brocoli
-TECHNIQUE_100796	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8202.jpg		GS_FR	fr	Demi rondelles de concombre
-TECHNIQUE_100797	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8203.jpg		GS_FR	fr	Poireau en demi rondelles
-TECHNIQUE_100798	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8204.jpg		GS_FR	fr	Brunoise de carottes, oignon, tomates et céleri branche.
-TECHNIQUE_100770	http://monactifry.prod.apipro.groupe-seb.com/videos/8205.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8205.jpg	GS_FR	fr	Oignon haché
-TECHNIQUE_100771	http://monactifry.prod.apipro.groupe-seb.com/videos/8206.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8206.jpg	GS_FR	fr	Préparation d'un ail
-TECHNIQUE_100778	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8213.jpg		GS_FR	fr	Poivron en cubes
-TECHNIQUE_100779	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8214.jpg		GS_FR	fr	Aubergine en cubes
-TECHNIQUE_100780	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8215.jpg		GS_FR	fr	Concombre en cubes
-TECHNIQUE_100781	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8216.jpg		GS_FR	fr	Courgette en cubes
-TECHNIQUE_100782	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8217.jpg		GS_FR	fr	Tomates en cubes
-TECHNIQUE_100783	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8218.jpg		GS_FR	fr	Citrouille en cubes
-TECHNIQUE_100784	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8219.jpg		GS_FR	fr	Fenouil en cubes
-TECHNIQUE_100786	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8221.jpg		GS_FR	fr	Aubergine en lanières
-TECHNIQUE_100787	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8222.jpg		GS_FR	fr	Poireau en lanières
-TECHNIQUE_100788	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8223.jpg		GS_FR	fr	Courgette en lanières
-TECHNIQUE_100802	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8198.jpg		GS_FR	fr	Herbe ciselée
-TECHNIQUE_100789	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8224.jpg		GS_FR	fr	Céleri en lanières
-TECHNIQUE_100790	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8225.jpg		GS_FR	fr	Fenouil en lanières
-TECHNIQUE_100791	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8226.jpg		GS_FR	fr	Piment en lanières
-TECHNIQUE_100792	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8227.jpg		GS_FR	fr	Oignon en lanières
-TECHNIQUE_100793	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8228.jpg		GS_FR	fr	Rondelles de courgettes
-TECHNIQUE_100794	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8229.jpg		GS_FR	fr	Carotte en rondelles
-TECHNIQUE_100795	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8230.jpg		GS_FR	fr	Poireau en rondelles
-TECHNIQUE_100768	http://monactifry.prod.apipro.groupe-seb.com/videos/8231.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8231.jpg	GS_FR	fr	Legumes
-TECHNIQUE_100767	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8233.jpg		GS_FR	fr	Découpe en rondelles
-TECHNIQUE_100766	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8234.jpg		GS_FR	fr	Découpe en frites
-TECHNIQUE_100763	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8238.jpg		GS_FR	fr	Ajoutez cuillère d'huile
-TECHNIQUE_100764	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8239.jpg		GS_FR	fr	Découpe en cubes
-TECHNIQUE_100765	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8240.jpg		GS_FR	fr	Découpe en potatoes
-TECHNIQUE_100785	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8220.jpg		GS_FR	fr	Poivron en lanières
-TECHNIQUE_100801	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43557.jpg		GS_FR	fr	Oignon ciselé
-TECHNIQUE_100814	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8242.jpg		GS_FR	fr	Ail haché
-TECHNIQUE_100815	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8243.jpg		GS_FR	fr	Persil haché
-TECHNIQUE_100816	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8244.jpg		GS_FR	fr	Menthe hachée
-TECHNIQUE_100817	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8245.jpg		GS_FR	fr	Coriandre hachée
-TECHNIQUE_100818	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8246.jpg		GS_FR	fr	Julienne de carottes
-TECHNIQUE_100819	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8247.jpg		GS_FR	fr	Artichaud en morceaux
-TECHNIQUE_100821	http://monactifry.prod.apipro.groupe-seb.com/videos/8249.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8249.jpg	GS_FR	fr	Réaliser une marinade
-TECHNIQUE_100822	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8250.jpg		GS_FR	fr	Découpe en lanières
-TECHNIQUE_100823	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8251.jpg		GS_FR	fr	Découpe en dés
-TECHNIQUE_100824	http://monactifry.prod.apipro.groupe-seb.com/videos/8252.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8252.jpg	GS_FR	fr	Viandes
-TECHNIQUE_100826	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8254.jpg		GS_FR	fr	Porc en lanières
-TECHNIQUE_100827	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8255.jpg		GS_FR	fr	Découpe en lanières
-TECHNIQUE_100828	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8256.jpg		GS_FR	fr	Cubes de viande (bœuf)
-TECHNIQUE_100829	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8257.jpg		GS_FR	fr	Cubes agneau
-TECHNIQUE_100830	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8258.jpg		GS_FR	fr	Cubes veau
-TECHNIQUE_100831	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8259.jpg		GS_FR	fr	Cubes de lapin
-TECHNIQUE_100832	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8260.jpg		GS_FR	fr	Découpe en tronçons (boudin)
-TECHNIQUE_100833	http://monactifry.prod.apipro.groupe-seb.com/videos/8261.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8261.jpg	GS_FR	fr	Poissons
-TECHNIQUE_100834	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8262.jpg		GS_FR	fr	Dés de saumon
-TECHNIQUE_100760	http://monactifry.prod.apipro.groupe-seb.com/videos/8235.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8235.jpg	GS_FR	fr	Pommes de Terres
-TECHNIQUE_100762	http://monactifry.prod.apipro.groupe-seb.com/videos/8237.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8237.jpg	GS_FR	fr	Ajouter cuillère d'huile
-TECHNIQUE_100825	http://monactifry.prod.apipro.groupe-seb.com/videos/8253.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8253.jpg	GS_FR	fr	Boulette de viande
-TECHNIQUE_100776	http://monactifry.prod.apipro.groupe-seb.com/videos/8211.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8211.jpg	GS_FR	fr	Equeuter et couper en 2 haricot vert
-TECHNIQUE_100775	http://monactifry.prod.apipro.groupe-seb.com/videos/8210.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8210.jpg	GS_FR	fr	Découper des rosettes de chou fleur
-TECHNIQUE_100773	http://monactifry.prod.apipro.groupe-seb.com/videos/8208.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8208.jpg	GS_FR	fr	Epépiner un poivron
-TECHNIQUE_100774	http://monactifry.prod.apipro.groupe-seb.com/videos/8209.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8209.jpg	GS_FR	fr	Julienne
-TECHNIQUE_100772	http://monactifry.prod.apipro.groupe-seb.com/videos/8207.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8207.jpg	GS_FR	fr	Monder et épépinez une tomate
-TECHNIQUE_100835	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8263.jpg		GS_FR	fr	Dés de lotte
-TECHNIQUE_100836	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8264.jpg		GS_FR	fr	Dés de thon
-TECHNIQUE_100837	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8265.jpg		GS_FR	fr	Dés d'espadon
-TECHNIQUE_100838	http://monactifry.prod.apipro.groupe-seb.com/videos/8266.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8266.jpg	GS_FR	fr	Crustacés
-TECHNIQUE_100813	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8241.jpg		GS_FR	fr	Ciboule hachée
-TECHNIQUE_100839	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8267.jpg		GS_FR	fr	Encornets
-TECHNIQUE_100840					
-TECHNIQUE_100842	http://monactifry.prod.apipro.groupe-seb.com/videos/8269.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8269.jpg	GS_FR	fr	Fruits/Desserts
-TECHNIQUE_100845	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8272.jpg		GS_FR	fr	Dés de poire
-TECHNIQUE_100846	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8273.jpg		GS_FR	fr	Dés de pomme
-TECHNIQUE_100847	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8274.jpg		GS_FR	fr	Dés d'ananas
-TECHNIQUE_100848	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8275.jpg		GS_FR	fr	Dés de mangue
-TECHNIQUE_100849	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8276.jpg		GS_FR	fr	Quartiers de pomme
-TECHNIQUE_100850	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8277.jpg		GS_FR	fr	Quartiers de poire
-TECHNIQUE_100851	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8278.jpg		GS_FR	fr	Morceaux d'ananas
-TECHNIQUE_100852	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8279.jpg		GS_FR	fr	Rondelles d'ananas
-TECHNIQUE_100853	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8280.jpg		GS_FR	fr	Rondelles de pomme
-TECHNIQUE_100854	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8281.jpg		GS_FR	fr	Rondelles de banane
-TECHNIQUE_100841	http://monactifry.prod.apipro.groupe-seb.com/videos/8268.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8268.jpg	GS_FR	fr	Décortiquer
-TECHNIQUE_100843	http://monactifry.prod.apipro.groupe-seb.com/videos/8270.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8270.jpg	GS_FR	fr	Découpe d'un citron et prélèvement du zeste.
-TECHNIQUE_100777	http://monactifry.prod.apipro.groupe-seb.com/videos/8212.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8212.jpg	GS_FR	fr	Pelez le céleri rave et déocupez le en petits dés
-TECHNIQUE_101819	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/42758.jpg		GS_INT	en	Kartoffeln
-TECHNIQUE_100820	http://monactifry.prod.apipro.groupe-seb.com/videos/8248.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8248.jpg	GS_FR	fr	Volailles
-TECHNIQUE_101866					
-TECHNIQUE_102006	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/98145.jpg		GS_FR	fr	Quartiers de pêche
-TECHNIQUE_102007	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/98151.jpg		GS_FR	fr	Cubes de poulet
-TECHNIQUE_102012	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104572.jpg		GS_FR	fr	Retirer la peau du saumon
-TECHNIQUE_100769	http://monactifry.prod.apipro.groupe-seb.com/videos/8232.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8232.jpg	GS_FR	fr	Oignon émincé
-TECHNIQUE_100761	http://monactifry.prod.apipro.groupe-seb.com/videos/43480.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43480.jpg	GS_FR	fr	Essuyer pomme de terre
-TECHNIQUE_100844	http://monactifry.prod.apipro.groupe-seb.com/videos/43510.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43510.jpg	GS_FR	fr	Préparer un ananas
-TECHNIQUE_101686	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes
-TECHNIQUE_101687	http://monactifry.prod.apipro.groupe-seb.com/videos/9780_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9780.jpg	GS_INT	en	Dry potato
-TECHNIQUE_101689	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9782.jpg		GS_INT	en	Cut into wedges
-TECHNIQUE_101691	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9784.jpg		GS_INT	en	Cut into slices
-TECHNIQUE_101692	http://monactifry.prod.apipro.groupe-seb.com/videos/9785_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9785.jpg	GS_INT	en	Vegetables
-TECHNIQUE_101693	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9786.jpg		GS_INT	en	Minced onion
-TECHNIQUE_101694	http://monactifry.prod.apipro.groupe-seb.com/videos/9787.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9787.jpg	GS_INT	en	Chopped onion
-TECHNIQUE_101695	http://monactifry.prod.apipro.groupe-seb.com/videos/9788.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9788.jpg	GS_INT	en	Preparation of garlic
-TECHNIQUE_101696	http://monactifry.prod.apipro.groupe-seb.com/videos/9789_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9789.jpg	GS_INT	en	Peel and deseed a tomato
-TECHNIQUE_101697	http://monactifry.prod.apipro.groupe-seb.com/videos/9790.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9790.jpg	GS_INT	en	Remove seeds from a pepper
-TECHNIQUE_101698	http://monactifry.prod.apipro.groupe-seb.com/videos/9791.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9791.jpg	GS_INT	en	Julienne
-TECHNIQUE_101699	http://monactifry.prod.apipro.groupe-seb.com/videos/9792.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9792.jpg	GS_INT	en	Cut cauliflower into florets
-TECHNIQUE_101700	http://monactifry.prod.apipro.groupe-seb.com/videos/9793.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9793.jpg	GS_INT	en	Remove the stalk and cut green beans in halves
-TECHNIQUE_101701	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed
-TECHNIQUE_101703	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9796.jpg		GS_INT	en	Cucumber, cubed
-TECHNIQUE_101705	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes
-TECHNIQUE_101706	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9799.jpg		GS_INT	en	Pumpkin, cubed
-TECHNIQUE_101707	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed
-TECHNIQUE_101708	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips
-TECHNIQUE_101710	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9803.jpg		GS_INT	en	Leek cut into strips
-TECHNIQUE_101712	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9805.jpg		GS_INT	en	Celery cut into strips
-TECHNIQUE_101713	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9806.jpg		GS_INT	en	Fennel cut into thin strips
-TECHNIQUE_101714	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips
-TECHNIQUE_101715	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9808.jpg		GS_INT	en	Onion cut into strips
-TECHNIQUE_101717	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot
-TECHNIQUE_101718	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9811.jpg		GS_INT	en	Sliced leek
-TECHNIQUE_101719	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved
-TECHNIQUE_101720	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9813.jpg		GS_INT	en	Leek in half slices
-TECHNIQUE_101721	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9814.jpg		GS_INT	en	Finely diced carrots, onion, tomatoes and celery.
-TECHNIQUE_101722	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9815.jpg		GS_INT	en	Cauliflower cut into  florets
-TECHNIQUE_101723	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9816.jpg		GS_INT	en	Brocoli cut into florets
-TECHNIQUE_101724	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9817.jpg		GS_INT	en	Finely chopped onion
-TECHNIQUE_101725	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9818.jpg		GS_INT	en	Finely chopped  herb
-TECHNIQUE_101726	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9819.jpg		GS_INT	en	Finely chopped  shallots
-TECHNIQUE_101728	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9821.jpg		GS_INT	en	Finely chopped  chervil
-TECHNIQUE_101729	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9822.jpg		GS_INT	en	Finely chopped  tarragon
-TECHNIQUE_101730	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9786.jpg		GS_INT	en	Minced onion
-TECHNIQUE_101731	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9823.jpg		GS_INT	en	Minced shallot
-TECHNIQUE_101690	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips
-TECHNIQUE_101704	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed
-TECHNIQUE_101711	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9804.jpg		GS_INT	en	Courgette cut into strips
-TECHNIQUE_101702	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed
-TECHNIQUE_101709	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9802.jpg		GS_INT	en	Aubergine cut into strips
-TECHNIQUE_101732	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9824.jpg		GS_INT	en	Minced garlic
-TECHNIQUE_101733	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9825.jpg		GS_INT	en	Finely choped dill
-TECHNIQUE_101734	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9826.jpg		GS_INT	en	Minced mushrooms
-TECHNIQUE_101735	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9827.jpg		GS_INT	en	Minced ginger
-TECHNIQUE_101736	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives
-TECHNIQUE_101737	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9829.jpg		GS_INT	en	Chopped garlic
-TECHNIQUE_101716	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9809.jpg		GS_INT	en	Slices of cougette
-TECHNIQUE_101738	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley
-TECHNIQUE_101739	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9831.jpg		GS_INT	en	Chopped mint
-TECHNIQUE_101740	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9832.jpg		GS_INT	en	Chopped coriander
-TECHNIQUE_101742	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9834.jpg		GS_INT	en	Artichoke cut into pieces
-TECHNIQUE_101743	http://monactifry.prod.apipro.groupe-seb.com/videos/9835_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9835.jpg	GS_INT	en	Chicken
-TECHNIQUE_101744	http://monactifry.prod.apipro.groupe-seb.com/videos/9836_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9836.jpg	GS_INT	en	To make a marinade
-TECHNIQUE_101745	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9837.jpg		GS_INT	en	Cut into strips
-TECHNIQUE_101746	http://monactifry.prod.apipro.groupe-seb.com/videos/9838_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9838.jpg	GS_INT	en	Meat
-TECHNIQUE_101747	http://monactifry.prod.apipro.groupe-seb.com/videos/9839.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9839.jpg	GS_INT	en	Meatball
-TECHNIQUE_101748	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips
-TECHNIQUE_101749	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9841.jpg		GS_INT	en	Cubes of meat (beef)
-TECHNIQUE_101750	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes
-TECHNIQUE_101751	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9843.jpg		GS_INT	en	Veal cubes
-TECHNIQUE_101752	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes
-TECHNIQUE_101753	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9845.jpg		GS_INT	en	Cut into chunks
-TECHNIQUE_101754	http://monactifry.prod.apipro.groupe-seb.com/videos/9846_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9846.jpg	GS_INT	en	Fish
-TECHNIQUE_101755	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon
-TECHNIQUE_101756	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9848.jpg		GS_INT	en	Diced monkfish
-TECHNIQUE_101757	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9849.jpg		GS_INT	en	Diced tuna
-TECHNIQUE_101758	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9850.jpg		GS_INT	en	Diced swordfish
-TECHNIQUE_101759	http://monactifry.prod.apipro.groupe-seb.com/videos/9851_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9851.jpg	GS_INT	en	Shellfish
-TECHNIQUE_101760	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid
-TECHNIQUE_101761					
-TECHNIQUE_101762	http://monactifry.prod.apipro.groupe-seb.com/videos/9853.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9853.jpg	GS_INT	en	Peel
-TECHNIQUE_101763	http://monactifry.prod.apipro.groupe-seb.com/videos/9854.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9854.jpg	GS_INT	en	Fruits/Desserts
-TECHNIQUE_101764	http://monactifry.prod.apipro.groupe-seb.com/videos/9855.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9855.jpg	GS_INT	en	keep the zest
-TECHNIQUE_101765	http://monactifry.prod.apipro.groupe-seb.com/videos/9856.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9856.jpg	GS_INT	en	Prepare a pineapple
-TECHNIQUE_101766	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9857.jpg		GS_INT	en	Diced pear
-TECHNIQUE_101767	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9858.jpg		GS_INT	en	Diced apple
-TECHNIQUE_101768	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple
-TECHNIQUE_101769	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9860.jpg		GS_INT	en	Diced mango
-TECHNIQUE_101770	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges
-TECHNIQUE_101771	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9862.jpg		GS_INT	en	Pear wedges
-TECHNIQUE_101772	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9863.jpg		GS_INT	en	Pineapple chunks
-TECHNIQUE_101773	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9864.jpg		GS_INT	en	Pineapple rings
-TECHNIQUE_101775	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9866.jpg		GS_INT	en	Banana slices
-TECHNIQUE_101776	http://monactifry.prod.apipro.groupe-seb.com/videos/9867.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9867.jpg	GS_INT	en	Add a(n) (ActiFry) spoon of oil
-TECHNIQUE_101777	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9868.jpg		GS_INT	en	Ajoutez cuillère d'huile
-TECHNIQUE_101778	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	Découpe en cubes
-TECHNIQUE_101779	http://monactifry.prod.apipro.groupe-seb.com/videos/9870.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9870.jpg	GS_INT	en	Peel the celeriac and cut into small dices
-TECHNIQUE_101780	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9871.jpg		GS_INT	en	Découpe en lanières
-TECHNIQUE_101781					
-TECHNIQUE_101741	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9833.jpg		GS_INT	en	Julienned carrots
-TECHNIQUE_101774	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9865.jpg		GS_INT	en	Apple rings
-TECHNIQUE_101727	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil
-TECHNIQUE_101905	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges
-TECHNIQUE_101915	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple
-TECHNIQUE_101917	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon
-TECHNIQUE_101919	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes
-TECHNIQUE_101921	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed
-TECHNIQUE_101923	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed
-TECHNIQUE_101925	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil
-TECHNIQUE_101927	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips
-TECHNIQUE_101929	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes
-TECHNIQUE_101933	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed
-TECHNIQUE_101931	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips
-TECHNIQUE_101935	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips
-TECHNIQUE_101939	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes
-TECHNIQUE_101941	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot
-TECHNIQUE_101943	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved
-TECHNIQUE_101945	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid
-TECHNIQUE_101947	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed
-TECHNIQUE_101872	http://monactifry.prod.apipro.groupe-seb.com/videos/59970.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59970.jpg	GS_INT	en	Peel and deseed a tomato
-TECHNIQUE_101884	http://monactifry.prod.apipro.groupe-seb.com/videos/59985.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59985.jpg	GS_INT	en	Cut cauliflowers into florets
-TECHNIQUE_101894	http://monactifry.prod.apipro.groupe-seb.com/videos/60000.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/60000.jpg	GS_INT	en	Prepare a pineapple
-TECHNIQUE_101912	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley
-TECHNIQUE_101913	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	Découpe en cubes
-TECHNIQUE_101914	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips
-TECHNIQUE_101916	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple
-TECHNIQUE_101918	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon
-TECHNIQUE_101920	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes
-TECHNIQUE_101922	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed
-TECHNIQUE_101924	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed
-TECHNIQUE_101928	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips
-TECHNIQUE_101930	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes
-TECHNIQUE_101932	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips
-TECHNIQUE_101934	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed
-TECHNIQUE_101936	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips
-TECHNIQUE_101938	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes
-TECHNIQUE_101940	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes
-TECHNIQUE_101942	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot
-TECHNIQUE_101944	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved
-TECHNIQUE_101946	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid
-TECHNIQUE_101948	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed
-TECHNIQUE_101926	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil
-TECHNIQUE_101864	http://monactifry.prod.apipro.groupe-seb.com/videos/59920.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59920.jpg	GS_INT	en	Sliced onion
-TECHNIQUE_101870	http://monactifry.prod.apipro.groupe-seb.com/videos/59928.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59928.jpg	GS_INT	en	vegetables
-TECHNIQUE_101890	http://monactifry.prod.apipro.groupe-seb.com/videos/59994.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59994.jpg	GS_INT	en	Meatball
-TECHNIQUE_101891	http://monactifry.prod.apipro.groupe-seb.com/videos/59995.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59995.jpg	GS_INT	en	Meat
-TECHNIQUE_101892	http://monactifry.prod.apipro.groupe-seb.com/videos/59996.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59996.jpg	GS_INT	en	Shellfish
-TECHNIQUE_101893	http://monactifry.prod.apipro.groupe-seb.com/videos/59998.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59998.jpg	GS_INT	en	Keep the zest
-TECHNIQUE_101910	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges
-TECHNIQUE_101911	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives
-TECHNIQUE_101937	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes
-TECHNIQUE_101688	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9781.jpg		GS_INT	en	Cut into cubes
-TECHNIQUE_101860	http://monactifry.prod.apipro.groupe-seb.com/videos/59912.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59912.jpg	GS_INT	en	Add a(n) (ActiFry) spoon of oil
-TECHNIQUE_101906	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives
-TECHNIQUE_101907	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley
-TECHNIQUE_101908	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	Découpe en cubes
-TECHNIQUE_101909	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips
-TECHNIQUE_101863	http://monactifry.prod.apipro.groupe-seb.com/videos/59917.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59917.jpg	GS_INT	en	chopped onion
-TECHNIQUE_101867	http://monactifry.prod.apipro.groupe-seb.com/videos/59923.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59923.jpg	GS_INT	en	Cut cauliflowers into florets
-TECHNIQUE_101861	http://monactifry.prod.apipro.groupe-seb.com/videos/59914.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59914.jpg	GS_INT	en	Dry potatoe
-TECHNIQUE_101862	http://monactifry.prod.apipro.groupe-seb.com/videos/59916.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59916.jpg	GS_INT	en	General technic of potatoe
-TECHNIQUE_101874	http://monactifry.prod.apipro.groupe-seb.com/videos/59973.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59973.jpg	GS_INT	en	Meat
-TECHNIQUE_101873	http://monactifry.prod.apipro.groupe-seb.com/videos/59972.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59972.jpg	GS_INT	en	Meatball
-TECHNIQUE_101868	http://monactifry.prod.apipro.groupe-seb.com/videos/59924_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59924.jpg	GS_INT	en	Peel the celeriac and cut into small dices
-TECHNIQUE_101865	http://monactifry.prod.apipro.groupe-seb.com/videos/59922.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59922.jpg	GS_INT	en	Preparation of garlic
-TECHNIQUE_101877	http://monactifry.prod.apipro.groupe-seb.com/videos/59977.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59977.jpg	GS_INT	en	Prepare a pineapple
-TECHNIQUE_101869	http://monactifry.prod.apipro.groupe-seb.com/videos/59927.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59927.jpg	GS_INT	en	Remove seeds from pepper
-TECHNIQUE_101871	http://monactifry.prod.apipro.groupe-seb.com/videos/59929.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59929.jpg	GS_INT	en	Remove the stalk and cut green beans in halves
-TECHNIQUE_101875	http://monactifry.prod.apipro.groupe-seb.com/videos/59974.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59974.jpg	GS_INT	en	Shellfish
-TECHNIQUE_102011	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104313.jpg		GS_INT	en	Chicken cube
-TECHNIQUE_102014	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104983.jpg		GS_INT	en	Remove skin from salmon
-TECHNIQUE_102016	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/105302.jpg		GS_INT	en	Peach quarters
-TECHNIQUE_102017	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/105427.jpg		GS_INT	en	Diced courgette
-TECHNIQUE_101841					
-TECHNIQUE_101888	http://monactifry.prod.apipro.groupe-seb.com/videos/59991.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59991.jpg	GS_INT	en	Remove the stalk and cut green beans in halves
-TECHNIQUE_101878	http://monactifry.prod.apipro.groupe-seb.com/videos/59978.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59978.jpg	GS_INT	en	Add an Actifry spoon of oil
-TECHNIQUE_101879	http://monactifry.prod.apipro.groupe-seb.com/videos/59979.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59979.jpg	GS_INT	en	Dry potatoes
-TECHNIQUE_101880	http://monactifry.prod.apipro.groupe-seb.com/videos/59980.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59980.jpg	GS_INT	en	General technic of potatoe
-TECHNIQUE_101881	http://monactifry.prod.apipro.groupe-seb.com/videos/59981.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59981.jpg	GS_INT	en	Chopped onion
-TECHNIQUE_101882	http://monactifry.prod.apipro.groupe-seb.com/videos/59982.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59982.jpg	GS_INT	en	Sliced onion
-TECHNIQUE_101883	http://monactifry.prod.apipro.groupe-seb.com/videos/59984.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59984.jpg	GS_INT	en	Preparation of garlic
-TECHNIQUE_101885	http://monactifry.prod.apipro.groupe-seb.com/videos/59986.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59986.jpg	GS_INT	en	Peel the celeriac and cut into small dices
-TECHNIQUE_101886	http://monactifry.prod.apipro.groupe-seb.com/videos/59988.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59988.jpg	GS_INT	en	Remove seeds from pepper
-TECHNIQUE_101887	http://monactifry.prod.apipro.groupe-seb.com/videos/59989.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59989.jpg	GS_INT	en	Vegetables
-TECHNIQUE_101889	http://monactifry.prod.apipro.groupe-seb.com/videos/59993.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59993.jpg	GS_INT	en	To clean a tomatoe
-TECHNIQUE_106163	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20109.jpg		GS_DE	de	Gehackter Koriander
-TECHNIQUE_106169	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20115.jpg		GS_DE	de	In Würfel schneiden
-TECHNIQUE_106173	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20119.jpg		GS_DE	de	Fleisch würfeln (Rind)
-TECHNIQUE_106177	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20123.jpg		GS_DE	de	In Scheiben schneiden (Wurst)
-TECHNIQUE_106181	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20127.jpg		GS_DE	de	Thunfischwürfel
-TECHNIQUE_106190	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20135.jpg		GS_DE	de	Einen ActiFry-Löffel Öl hinzufügen
-TECHNIQUE_106185					
-TECHNIQUE_106193	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20138.jpg		GS_DE	de	In Scheiben schneiden
-TECHNIQUE_106205	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20150.jpg		GS_DE	de	Gewürfelte Aubergine
-TECHNIQUE_106209	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20154.jpg		GS_DE	de	Gewürfelter Kürbis
-TECHNIQUE_106213	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20158.jpg		GS_DE	de	Lauch in Streifen schneiden
-TECHNIQUE_106217	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20162.jpg		GS_DE	de	Peperoni In Streifen schneiden
-TECHNIQUE_106220	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20165.jpg		GS_DE	de	Karottenscheiben
-TECHNIQUE_106223	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20168.jpg		GS_DE	de	Halbe Lauchscheiben
-TECHNIQUE_106226	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20171.jpg		GS_DE	de	In Röschen geschnittener Brokkoli
-TECHNIQUE_106229	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20174.jpg		GS_DE	de	Fein gehacktes Basilikum
-TECHNIQUE_106232	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20177.jpg		GS_DE	de	Gehackte Schalotte
-TECHNIQUE_106238	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20183.jpg		GS_DE	de	Ananasstückchen
-TECHNIQUE_106335	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20195.jpg		GS_DE	de	Oignon ciselé
-TECHNIQUE_106158	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20104.jpg		GS_DE	de	Gehackter Ingwer
-TECHNIQUE_106164	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20110.jpg		GS_DE	de	Karotten in Julienne-Streifen
-TECHNIQUE_106174	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20120.jpg		GS_DE	de	Gewürfeltes Lammfleisch
-TECHNIQUE_106182	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20128.jpg		GS_DE	de	Schwertfischwürfel
-TECHNIQUE_106206	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20151.jpg		GS_DE	de	Gewürfelte Gurke
-TECHNIQUE_106210	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20155.jpg		GS_DE	de	Gewürfelter Fenchel
-TECHNIQUE_106233	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20178.jpg		GS_DE	de	Gehackter Dill
-TECHNIQUE_106186	http://monactifry.prod.apipro.groupe-seb.com/videos/20131.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20131.jpg	GS_DE	de	Schälen
-TECHNIQUE_106194	http://monactifry.prod.apipro.groupe-seb.com/videos/20139.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20139.jpg	GS_DE	de	Gemüse
-TECHNIQUE_106178	http://monactifry.prod.apipro.groupe-seb.com/videos/20124.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20124.jpg	GS_DE	de	Fisch
-TECHNIQUE_106170	http://monactifry.prod.apipro.groupe-seb.com/videos/20116.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20116.jpg	GS_DE	de	Fleisch
-TECHNIQUE_106187	http://monactifry.prod.apipro.groupe-seb.com/videos/20132.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20132.jpg	GS_DE	de	Früchte / Süßspeisen
-TECHNIQUE_106203	http://monactifry.prod.apipro.groupe-seb.com/videos/20148.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20148.jpg	GS_DE	de	Sellerie schälen und in kleine Würfel schneiden
-TECHNIQUE_106191	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20136.jpg		GS_DE	de	In Kartoffelspalten schneiden
-TECHNIQUE_106214	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20159.jpg		GS_DE	de	Zucchini in Streifen schneiden
-TECHNIQUE_106218	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20163.jpg		GS_DE	de	Zwiebel in Streifen schneiden
-TECHNIQUE_106221	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20166.jpg		GS_DE	de	Geschnittener Lauch
-TECHNIQUE_106224	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20169.jpg		GS_DE	de	Fein gewürfelte Karotten, Zwiebeln, Tomaten und Sellerie.
-TECHNIQUE_106227	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20172.jpg		GS_DE	de	Fein gehackte Kräuter
-TECHNIQUE_106230	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20175.jpg		GS_DE	de	Fein gehackter Kerbel
-TECHNIQUE_106236	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20181.jpg		GS_DE	de	Birnenwürfel
-TECHNIQUE_106239	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20184.jpg		GS_DE	de	Mangowürfel
-TECHNIQUE_106242	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20187.jpg		GS_DE	de	Ananasstücke
-TECHNIQUE_106245	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20190.jpg		GS_DE	de	Bananenscheiben
-TECHNIQUE_106333	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20193.jpg		GS_DE	de	Découpe en lanières
-TECHNIQUE_106159	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20105.jpg		GS_DE	de	Gehackter Schnittlauch
-TECHNIQUE_106165	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20111.jpg		GS_DE	de	In Stücke geschnittene Artischocke
-TECHNIQUE_106175	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20121.jpg		GS_DE	de	Gewürfeltes Kalbsfleisch
-TECHNIQUE_106179	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20125.jpg		GS_DE	de	Lachswürfel
-TECHNIQUE_106195	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20140.jpg		GS_DE	de	Fein gehackte Zwiebel
-TECHNIQUE_106160	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20106.jpg		GS_DE	de	Gehackter Knoblauch
-TECHNIQUE_106234	http://monactifry.prod.apipro.groupe-seb.com/videos/20179.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20179.jpg	GS_DE	de	Zerschneiden Sie eine Zitrone und reiben Sie die Zitronenschale
-TECHNIQUE_106196	http://monactifry.prod.apipro.groupe-seb.com/videos/20141.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20141.jpg	GS_DE	de	Gehackte Zwiebel
-TECHNIQUE_106200	http://monactifry.prod.apipro.groupe-seb.com/videos/20145.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20145.jpg	GS_DE	de	Gemüsestreifen
-TECHNIQUE_106331	http://monactifry.prod.apipro.groupe-seb.com/videos/20191_2.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20191_3.jpg	GS_DE	de	Einen ActiFry-Löffel Öl hinzufügen
-TECHNIQUE_106189	http://monactifry.prod.apipro.groupe-seb.com/videos/20134_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20134.jpg	GS_DE	de	Kartoffeln abspülen
-TECHNIQUE_106244	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20189.jpg		GS_DE	de	Apfelringe
-TECHNIQUE_106207	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20152.jpg		GS_DE	de	Gewürfelte Zucchini
-TECHNIQUE_106211	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20156.jpg		GS_DE	de	Paprika In Streifen schneiden
-TECHNIQUE_106215	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20160.jpg		GS_DE	de	Sellerie in Streifen schneiden
-TECHNIQUE_106219	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20164.jpg		GS_DE	de	Zucchinischeiben
-TECHNIQUE_106222	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20167.jpg		GS_DE	de	Halbe Gurkenscheiben
-TECHNIQUE_106225	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20170.jpg		GS_DE	de	In Röschen geschnittener Blumenkohl
-TECHNIQUE_106228	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20173.jpg		GS_DE	de	Fein gehackte Schalotten
-TECHNIQUE_106231	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20176.jpg		GS_DE	de	Fein gehackter Estragon
-TECHNIQUE_106237	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20182.jpg		GS_DE	de	Apfelwürfel
-TECHNIQUE_106240	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20185.jpg		GS_DE	de	Apfelspalten
-TECHNIQUE_106243	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20188.jpg		GS_DE	de	Ananasringe
-TECHNIQUE_106334	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20194.jpg		GS_DE	de	Découpe en dés
-TECHNIQUE_106161	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20107.jpg		GS_DE	de	Gehackte Petersilie
-TECHNIQUE_106162	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20108.jpg		GS_DE	de	Gehackte Minze
-TECHNIQUE_106168	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20114.jpg		GS_DE	de	In Streifen schneiden
-TECHNIQUE_106172	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20118.jpg		GS_DE	de	Schweinefilet in Streifen schneiden
-TECHNIQUE_106176	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20122.jpg		GS_DE	de	Gewürfeltes Kaninchenfleisch
-TECHNIQUE_106180	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20126.jpg		GS_DE	de	Seeteufelwürfel
-TECHNIQUE_106184	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20130.jpg		GS_DE	de	Tintenfisch
-TECHNIQUE_106192	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20137.jpg		GS_DE	de	In Pommes frites schneiden
-TECHNIQUE_106204	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20149.jpg		GS_DE	de	Gewürfelte Paprika
-TECHNIQUE_106208	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20153.jpg		GS_DE	de	Gewürfelte Tomate
-TECHNIQUE_106212	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20157.jpg		GS_DE	de	Aubergine in Streifen schneiden
-TECHNIQUE_106216	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20161.jpg		GS_DE	de	Fenchel in Streifen schneiden
-TECHNIQUE_106188	http://monactifry.prod.apipro.groupe-seb.com/videos/20133_6.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20133_1.jpg	GS_DE	de	Kartoffeln
-TECHNIQUE_106198	http://monactifry.prod.apipro.groupe-seb.com/videos/20143.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20143.jpg	GS_DE	de	Eine Tomate schälen und entkernen
-TECHNIQUE_106183	http://monactifry.prod.apipro.groupe-seb.com/videos/20129.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20129.jpg	GS_DE	de	Meeresfrüchte
-TECHNIQUE_106167	http://monactifry.prod.apipro.groupe-seb.com/videos/20113.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20113.jpg	GS_DE	de	Für eine Marinade
-TECHNIQUE_106166	http://monactifry.prod.apipro.groupe-seb.com/videos/20112.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20112.jpg	GS_DE	de	Huhn
-TECHNIQUE_102009	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/102180.jpg		GS_DE	de	Pfirsichspalten
-TECHNIQUE_102010	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/102337.jpg		GS_DE	de	Gewürfeltes Hähnchen
-TECHNIQUE_102013	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104573.jpg		GS_DE	de	Lachshaut abziehen
-TECHNIQUE_106235	http://monactifry.prod.apipro.groupe-seb.com/videos/20180.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20180.jpg	GS_DE	de	Bereiten Sie eine Ananas vor
-TECHNIQUE_106332	http://monactifry.prod.apipro.groupe-seb.com/videos/20192.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20192.jpg	GS_DE	de	Fein gehackte Zwiebel
-TECHNIQUE_106202	http://monactifry.prod.apipro.groupe-seb.com/videos/20147.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20147.jpg	GS_DE	de	Brechbohnen entstielen und durchschneiden
-TECHNIQUE_106197	http://monactifry.prod.apipro.groupe-seb.com/videos/20142.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20142.jpg	GS_DE	de	Vorbereitung von Knoblauch
-TECHNIQUE_106201	http://monactifry.prod.apipro.groupe-seb.com/videos/20146.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20146.jpg	GS_DE	de	Blumenkohl in Röschen schneiden
-TECHNIQUE_106171	http://monactifry.prod.apipro.groupe-seb.com/videos/20117.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20117.jpg	GS_DE	de	Hackfleischbällchen
-TECHNIQUE_106199	http://monactifry.prod.apipro.groupe-seb.com/videos/20144.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20144.jpg	GS_DE	de	Eine Paprikaschote entkernen
-TECHNIQUE_106157	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20103.jpg		GS_DE	de	Gehackte Champignons
-TECHNIQUE_106241	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20186.jpg		GS_DE	de	Birnenspalten
-TECHNIQUE_101792	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17640.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17640.jpg	GS_FR	fr	Boulette de viande
-TECHNIQUE_101795	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17651.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17651.jpg	GS_FR	fr	Découper des rosettes de chou fleur
-TECHNIQUE_101799	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17658.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17658.jpg	GS_FR	fr	Monder et épépinez une tomate
-TECHNIQUE_101802	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17663.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17663.jpg	GS_FR	fr	Préparation d'un ail
-TECHNIQUE_101803	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17665.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17665.jpg	GS_FR	fr	Préparer un ananas
-TECHNIQUE_101793	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17649.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17649.jpg	GS_FR	fr	Décortiquer
-TECHNIQUE_101796	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17652.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17652.jpg	GS_FR	fr	Epépiner un poivron
-TECHNIQUE_101800	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17660.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17660.jpg	GS_FR	fr	Oignon émincé
-TECHNIQUE_101794	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17650.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17650.jpg	GS_FR	fr	Découpe d'un citron et prélèvement du zeste
-TECHNIQUE_101797	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17655.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17655.jpg	GS_FR	fr	Equeuter et couper en 2 haricot vert
-TECHNIQUE_101801	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17662.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17662.jpg	GS_FR	fr	" 	Pelez le céleri rave et découpez le en petits dés"
-TECHNIQUE_101798	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17657.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17657.jpg	GS_FR	fr	Julienne
-TECHNIQUE_101973	http://cookeo.prod.apipro.groupe-seb.com/videos/61558.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61558.jpg	GS_FR	fr	Préparer une julienne de légumes
-TECHNIQUE_101975	http://cookeo.prod.apipro.groupe-seb.com/videos/61560.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61560.jpg	GS_FR	fr	Pelez le céleri rave et déocupez le en petits dés
-TECHNIQUE_101983	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68127.jpg		GS_FR	fr	Hâcher le chocolat
-TECHNIQUE_101984	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68126.jpg		GS_FR	fr	Tailler un poivron
-TECHNIQUE_101982	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65659.jpg		GS_FR	fr	Couper les poireau en julienne
-TECHNIQUE_101977	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61895.jpg		GS_FR	fr	Décortiquer les crevettes
-TECHNIQUE_101971	http://cookeo.prod.apipro.groupe-seb.com/videos/61556.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61556.jpg	GS_FR	fr	Epepiner un poivron
-TECHNIQUE_101979	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/63157.jpg		GS_FR	fr	Couper le poulet en lamelles
-TECHNIQUE_101978	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/63158.jpg		GS_FR	fr	Couper le poulet en cubes
-TECHNIQUE_101980	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65658.jpg		GS_FR	fr	Couper les poireau en julienne
-TECHNIQUE_101981	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65660.jpg		GS_FR	fr	Couper les carottes en julienne
-TECHNIQUE_101955	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60840.jpg		GS_FR	fr	Emincer les échalotes
-TECHNIQUE_101821	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55730.jpg		GS_FR	fr	Ciseler du basilic
-TECHNIQUE_101958	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60844.jpg		GS_FR	fr	Hâcher le persil
-TECHNIQUE_101822	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60830.jpg		GS_FR	fr	Ciseler la menthe
-TECHNIQUE_101823	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/56138.jpg		GS_FR	fr	Ciseler une échalotte
-TECHNIQUE_101824	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55733.jpg		GS_FR	fr	Couper les carottes en dés
-TECHNIQUE_101825	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55734.jpg		GS_FR	fr	Couper les poires en cubes
-TECHNIQUE_101828	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55738.jpg		GS_FR	fr	Emincer du basilic
-TECHNIQUE_101830	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55740.jpg		GS_FR	fr	Emincer les champignons
-TECHNIQUE_101831	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55741.jpg		GS_FR	fr	Emincer les oignons
-TECHNIQUE_101829	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55739.jpg		GS_FR	fr	Emincer le chou fleur
-TECHNIQUE_101956	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60841.jpg		GS_FR	fr	Enlever la peau du saumon
-TECHNIQUE_101834	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55745.jpg		GS_FR	fr	Peler l'ananas
-TECHNIQUE_101959	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60846.jpg		GS_FR	fr	Ramollir la gélatine
-TECHNIQUE_101835	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55746.jpg		GS_FR	fr	Réaliser des boulettes
-TECHNIQUE_101836	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55747.jpg		GS_FR	fr	Tailler du gingembre en julienne
-TECHNIQUE_101838	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/56139.jpg		GS_FR	fr	Couper les mangues en dés
-TECHNIQUE_101832	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55743.jpg		GS_FR	fr	lever un supreme d'agrume
-TECHNIQUE_101972	http://cookeo.prod.apipro.groupe-seb.com/videos/61557.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61557.jpg	GS_FR	fr	Equeuter et couper en 2 des haricots verts
-TECHNIQUE_101827	http://cookeo.prod.apipro.groupe-seb.com/videos/60829.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60829.jpg	GS_FR	fr	Décortiquer les crevettes
-TECHNIQUE_101974	http://cookeo.prod.apipro.groupe-seb.com/videos/61559.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61559.jpg	GS_FR	fr	Monder et épépinez une tomate
-TECHNIQUE_101833	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68125.jpg		GS_FR	fr	Monter les blancs en neige
-TECHNIQUE_101951	http://cookeo.prod.apipro.groupe-seb.com/videos/60819.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60819.jpg	GS_FR	fr	Découper des rosettes de chou-fleur
-TECHNIQUE_101950	http://cookeo.prod.apipro.groupe-seb.com/videos/60820.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60820.jpg	GS_FR	fr	Découpe d'une orange et prélèvement du zeste
-TECHNIQUE_101952	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60837.jpg		GS_FR	fr	Ciseler la coriandre
-TECHNIQUE_101953	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60838.jpg		GS_FR	fr	Couper les pommes de terre en cubes
-TECHNIQUE_101954	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60839.jpg		GS_FR	fr	Dégermer de l'ail
-TECHNIQUE_101957	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60843.jpg		GS_FR	fr	Epépiner le concombre
-TECHNIQUE_101960	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60847.jpg		GS_FR	fr	Râper du gingembre
-TECHNIQUE_101976	http://cookeo.prod.apipro.groupe-seb.com/videos/61561.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61561.jpg	GS_FR	fr	Préparer un ananas
-TECHNIQUE_102030	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106045.jpg		GS_GB	en	Peel the pineapple
-TECHNIQUE_102029	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106051.jpg		GS_GB	en	Soak the gelatin
-TECHNIQUE_102005	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/98120.jpg		GS_GB	en	Emincer les champignons
-TECHNIQUE_102018	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106040.jpg		GS_GB	en	Grate the ginger
-TECHNIQUE_102021	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106038.jpg		GS_GB	en	Degerm the garlic cloves
-TECHNIQUE_102042	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106041.jpg		GS_GB	en	Julienne carrots
-TECHNIQUE_102031	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106046.jpg		GS_GB	en	Remove skin from salmon
-TECHNIQUE_102044	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106056.jpg		GS_GB	en	Julienne leek, white part
-TECHNIQUE_102022	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106034.jpg		GS_GB	en	Cut potatoes into bite-size
-TECHNIQUE_102020	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106047.jpg		GS_GB	en	Seed the cucumber
-TECHNIQUE_102032	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106054.jpg		GS_GB	en	Slice the cauliflower
-TECHNIQUE_102023	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106026.jpg		GS_GB	en	Chop coriander leaves
-TECHNIQUE_102045	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106035.jpg		GS_GB	en	Cut the chicken into cubes
-TECHNIQUE_102024	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106052.jpg		GS_GB	en	Whisk the egg whites 
-TECHNIQUE_102046	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106055.jpg		GS_GB	en	Slice the chicken
-TECHNIQUE_102033	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106030.jpg		GS_GB	en	Chop the onion
-TECHNIQUE_102025	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106048.jpg		GS_GB	en	Segment the orange
-TECHNIQUE_102047	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106044.jpg		GS_GB	en	Peel a prawn
-TECHNIQUE_102026	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106036.jpg		GS_GB	en	Cut the mango into cubes
-TECHNIQUE_102027	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106042.jpg		GS_GB	en	Julienne garlic cloves
-TECHNIQUE_102036	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106037.jpg		GS_GB	en	Cut the pears into cubes
-TECHNIQUE_102049	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106033.jpg		GS_GB	en	Cut pepper
-TECHNIQUE_102050	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106025.jpg		GS_GB	en	Chop chocolate
-TECHNIQUE_102028	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106039.jpg		GS_GB	en	Form meat balls
-TECHNIQUE_102051	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106027.jpg		GS_GB	en	Chop the basil
-TECHNIQUE_102039	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106028.jpg		GS_GB	en	Chop the mint
-TECHNIQUE_102040	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106031.jpg		GS_GB	en	Chop the parsley
-TECHNIQUE_102041	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106032.jpg		GS_GB	en	Chop the shallot
-TECHNIQUE_102414	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131553.jpg		GS_FR	fr	Hacher les tomates
-TECHNIQUE_102415	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131556.jpg		GS_FR	fr	Battre les œufs
-TECHNIQUE_102416	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131557.jpg		GS_FR	fr	Couper les carottes en tronçons
-TECHNIQUE_102418	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131559.jpg		GS_FR	fr	Émincer les carottes
-TECHNIQUE_102419	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131560.jpg		GS_FR	fr	Ciseler les oignons
-TECHNIQUE_102420	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131561.jpg		GS_FR	fr	Couper les oignons en morceaux
-TECHNIQUE_102421	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131563.jpg		GS_FR	fr	Tailler les oranges en tranches
-TECHNIQUE_102422	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131564.jpg		GS_FR	fr	Couper les courgettes en dés
-TECHNIQUE_102423	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131565.jpg		GS_FR	fr	Hacher l'ail
-TECHNIQUE_102424	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131566.jpg		GS_FR	fr	Tailler les aubergines en cubes
-TECHNIQUE_102426	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131570.jpg		GS_FR	fr	Émincer les blettes
-TECHNIQUE_102427	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131572_1.jpg		GS_FR	fr	Émincer le céleri branche
-TECHNIQUE_102428	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131574.jpg		GS_FR	fr	Mixer contenu blanc beige
-TECHNIQUE_102429	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131575.jpg		GS_FR	fr	Mixer contenu rouge
-TECHNIQUE_102430	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131576.jpg		GS_FR	fr	Mixer contenu marron
-TECHNIQUE_102431	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131738.jpg		GS_FR	fr	Couper la mangue en dés
-TECHNIQUE_102434	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/134556.jpg		GS_FR	fr	Emincer les poireaux
-TECHNIQUE_102048					
-TECHNIQUE_102037					
+ï»¿# key	medias[0].media.originalUrl	medias[0].media.thumbnailUrl	medias[0].captionTitle.localizations[0].market	medias[0].captionTitle.localizations[0].lang	medias[0].captionTitle.localizations[0].value	medias[0].captionTitle.localizations[1].market	medias[0].captionTitle.localizations[1].lang	medias[0].captionTitle.localizations[1].value
+TECHNIQUE_101855	http://monactifry.prod.apipro.groupe-seb.com/videos/58945.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58945.jpg	GS_NL	nl	Sperziebonen snijden			
+TECHNIQUE_101846	http://monactifry.prod.apipro.groupe-seb.com/videos/58932.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58932.jpg	GS_NL	nl	Aardappels drogen			
+TECHNIQUE_101852	http://monactifry.prod.apipro.groupe-seb.com/videos/58941.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58941.jpg	GS_NL	nl	Ananas			
+TECHNIQUE_101848	http://monactifry.prod.apipro.groupe-seb.com/videos/58935.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58935.jpg	GS_NL	nl	De schil gebruiken			
+TECHNIQUE_101842	http://monactifry.prod.apipro.groupe-seb.com/videos/58928.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58928.jpg	GS_NL	nl	Fijngesneden ui			
+TECHNIQUE_101850	http://monactifry.prod.apipro.groupe-seb.com/videos/58939.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58939.jpg	GS_NL	nl	Gehaktbal			
+TECHNIQUE_101859	http://monactifry.prod.apipro.groupe-seb.com/videos/58950.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58950.jpg	GS_NL	nl	Groenten			
+TECHNIQUE_101853	http://monactifry.prod.apipro.groupe-seb.com/videos/58943.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58943.jpg	GS_NL	nl	Knoflook snijden			
+TECHNIQUE_101851	http://monactifry.prod.apipro.groupe-seb.com/videos/58940.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58940_1.jpg	GS_NL	nl	Ananas snijden			
+TECHNIQUE_101856	http://monactifry.prod.apipro.groupe-seb.com/videos/58946.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58946.jpg	GS_NL	nl	Schaaldieren			
+TECHNIQUE_101844	http://monactifry.prod.apipro.groupe-seb.com/videos/58930.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58930.jpg	GS_NL	nl	Snijd bloemkool in roosjes			
+TECHNIQUE_101845	http://monactifry.prod.apipro.groupe-seb.com/videos/58931.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58931.jpg	GS_NL	nl	Snijd in reepjes			
+TECHNIQUE_101858	http://monactifry.prod.apipro.groupe-seb.com/videos/58948.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58948.jpg	GS_NL	nl	Tomaat schoonmaken			
+TECHNIQUE_101857	http://monactifry.prod.apipro.groupe-seb.com/videos/58947.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58947.jpg	GS_NL	nl	Ui in reepjes			
+TECHNIQUE_101849	http://monactifry.prod.apipro.groupe-seb.com/videos/58936.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58936.jpg	GS_NL	nl	Vlees			
+TECHNIQUE_101843	http://monactifry.prod.apipro.groupe-seb.com/videos/58929.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58929.jpg	GS_NL	nl	Voeg een ActiFry lepel olie toe			
+TECHNIQUE_101854	http://monactifry.prod.apipro.groupe-seb.com/videos/58944.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58944.jpg	GS_NL	nl	Zaadjes uit paprika verwijderen			
+TECHNIQUE_101847	http://monactifry.prod.apipro.groupe-seb.com/videos/58933.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/58933.jpg	GS_NL	nl	Zelf frietjes maken			
+TECHNIQUE_101782								
+TECHNIQUE_100807	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8188.jpg		GS_FR	fr	Oignon Ã©mincÃ©			
+TECHNIQUE_100808	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8189.jpg		GS_FR	fr	Echalote Ã©mincÃ©e			
+TECHNIQUE_100809	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8190.jpg		GS_FR	fr	Ail Ã©mincÃ©			
+TECHNIQUE_100810	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8191.jpg		GS_FR	fr	Aneth Ã©mincÃ©			
+TECHNIQUE_100811	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8192.jpg		GS_FR	fr	Champignon Ã©mincÃ©			
+TECHNIQUE_100812	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8193.jpg		GS_FR	fr	Gingembre Ã©mincÃ©			
+TECHNIQUE_100804	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8194.jpg		GS_FR	fr	Basilic ciselÃ©			
+TECHNIQUE_100805	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8195.jpg		GS_FR	fr	Cerfeuil ciselÃ©			
+TECHNIQUE_100806	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8196.jpg		GS_FR	fr	Estragon ciselÃ©			
+TECHNIQUE_100803	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8197.jpg		GS_FR	fr	Echalote ciselÃ©e			
+TECHNIQUE_100799	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8199.jpg		GS_FR	fr	DÃ©coupe en rosettes de choux fleur			
+TECHNIQUE_100800	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8200.jpg		GS_FR	fr	DÃ©coupe en rosettes de Brocoli			
+TECHNIQUE_100796	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8202.jpg		GS_FR	fr	Demi rondelles de concombre			
+TECHNIQUE_100797	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8203.jpg		GS_FR	fr	Poireau en demi rondelles			
+TECHNIQUE_100798	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8204.jpg		GS_FR	fr	Brunoise de carottes, oignon, tomates et cÃ©leri branche.			
+TECHNIQUE_100770	http://monactifry.prod.apipro.groupe-seb.com/videos/8205.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8205.jpg	GS_FR	fr	Oignon hachÃ©			
+TECHNIQUE_100771	http://monactifry.prod.apipro.groupe-seb.com/videos/8206.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8206.jpg	GS_FR	fr	PrÃ©paration d'un ail			
+TECHNIQUE_100778	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8213.jpg		GS_FR	fr	Poivron en cubes			
+TECHNIQUE_100779	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8214.jpg		GS_FR	fr	Aubergine en cubes			
+TECHNIQUE_100780	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8215.jpg		GS_FR	fr	Concombre en cubes			
+TECHNIQUE_100781	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8216.jpg		GS_FR	fr	Courgette en cubes			
+TECHNIQUE_100782	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8217.jpg		GS_FR	fr	Tomates en cubes			
+TECHNIQUE_100783	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8218.jpg		GS_FR	fr	Citrouille en cubes			
+TECHNIQUE_100784	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8219.jpg		GS_FR	fr	Fenouil en cubes			
+TECHNIQUE_100786	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8221.jpg		GS_FR	fr	Aubergine en laniÃ¨res			
+TECHNIQUE_100787	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8222.jpg		GS_FR	fr	Poireau en laniÃ¨res			
+TECHNIQUE_100788	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8223.jpg		GS_FR	fr	Courgette en laniÃ¨res			
+TECHNIQUE_100802	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8198.jpg		GS_FR	fr	Herbe ciselÃ©e			
+TECHNIQUE_100789	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8224.jpg		GS_FR	fr	CÃ©leri en laniÃ¨res			
+TECHNIQUE_100790	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8225.jpg		GS_FR	fr	Fenouil en laniÃ¨res			
+TECHNIQUE_100791	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8226.jpg		GS_FR	fr	Piment en laniÃ¨res			
+TECHNIQUE_100792	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8227.jpg		GS_FR	fr	Oignon en laniÃ¨res			
+TECHNIQUE_100793	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8228.jpg		GS_FR	fr	Rondelles de courgettes			
+TECHNIQUE_100794	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8229.jpg		GS_FR	fr	Carotte en rondelles			
+TECHNIQUE_100795	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8230.jpg		GS_FR	fr	Poireau en rondelles			
+TECHNIQUE_100768	http://monactifry.prod.apipro.groupe-seb.com/videos/8231.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8231.jpg	GS_FR	fr	Legumes			
+TECHNIQUE_100767	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8233.jpg		GS_FR	fr	DÃ©coupe en rondelles			
+TECHNIQUE_100766	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8234.jpg		GS_FR	fr	DÃ©coupe en frites			
+TECHNIQUE_100763	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8238.jpg		GS_FR	fr	Ajoutez cuillÃ¨re d'huile			
+TECHNIQUE_100764	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8239.jpg		GS_FR	fr	DÃ©coupe en cubes			
+TECHNIQUE_100765	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8240.jpg		GS_FR	fr	DÃ©coupe en potatoes			
+TECHNIQUE_100785	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8220.jpg		GS_FR	fr	Poivron en laniÃ¨res			
+TECHNIQUE_100801	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43557.jpg		GS_FR	fr	Oignon ciselÃ©			
+TECHNIQUE_100814	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8242.jpg		GS_FR	fr	Ail hachÃ©			
+TECHNIQUE_100815	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8243.jpg		GS_FR	fr	Persil hachÃ©			
+TECHNIQUE_100816	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8244.jpg		GS_FR	fr	Menthe hachÃ©e			
+TECHNIQUE_100817	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8245.jpg		GS_FR	fr	Coriandre hachÃ©e			
+TECHNIQUE_100818	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8246.jpg		GS_FR	fr	Julienne de carottes			
+TECHNIQUE_100819	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8247.jpg		GS_FR	fr	Artichaud en morceaux			
+TECHNIQUE_100821	http://monactifry.prod.apipro.groupe-seb.com/videos/8249.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8249.jpg	GS_FR	fr	RÃ©aliser une marinade			
+TECHNIQUE_100822	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8250.jpg		GS_FR	fr	DÃ©coupe en laniÃ¨res			
+TECHNIQUE_100823	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8251.jpg		GS_FR	fr	DÃ©coupe en dÃ©s			
+TECHNIQUE_100824	http://monactifry.prod.apipro.groupe-seb.com/videos/8252.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8252.jpg	GS_FR	fr	Viandes			
+TECHNIQUE_100826	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8254.jpg		GS_FR	fr	Porc en laniÃ¨res			
+TECHNIQUE_100827	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8255.jpg		GS_FR	fr	DÃ©coupe en laniÃ¨res			
+TECHNIQUE_100828	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8256.jpg		GS_FR	fr	Cubes de viande (bÅ“uf)			
+TECHNIQUE_100829	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8257.jpg		GS_FR	fr	Cubes agneau			
+TECHNIQUE_100830	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8258.jpg		GS_FR	fr	Cubes veau			
+TECHNIQUE_100831	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8259.jpg		GS_FR	fr	Cubes de lapin			
+TECHNIQUE_100832	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8260.jpg		GS_FR	fr	DÃ©coupe en tronÃ§ons (boudin)			
+TECHNIQUE_100833	http://monactifry.prod.apipro.groupe-seb.com/videos/8261.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8261.jpg	GS_FR	fr	Poissons			
+TECHNIQUE_100834	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8262.jpg		GS_FR	fr	DÃ©s de saumon			
+TECHNIQUE_100760	http://monactifry.prod.apipro.groupe-seb.com/videos/8235.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8235.jpg	GS_FR	fr	Pommes de Terres			
+TECHNIQUE_100762	http://monactifry.prod.apipro.groupe-seb.com/videos/8237.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8237.jpg	GS_FR	fr	Ajouter cuillÃ¨re d'huile			
+TECHNIQUE_100825	http://monactifry.prod.apipro.groupe-seb.com/videos/8253.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8253.jpg	GS_FR	fr	Boulette de viande			
+TECHNIQUE_100776	http://monactifry.prod.apipro.groupe-seb.com/videos/8211.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8211.jpg	GS_FR	fr	Equeuter et couper en 2 haricot vert			
+TECHNIQUE_100775	http://monactifry.prod.apipro.groupe-seb.com/videos/8210.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8210.jpg	GS_FR	fr	DÃ©couper des rosettes de chou fleur			
+TECHNIQUE_100773	http://monactifry.prod.apipro.groupe-seb.com/videos/8208.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8208.jpg	GS_FR	fr	EpÃ©piner un poivron			
+TECHNIQUE_100774	http://monactifry.prod.apipro.groupe-seb.com/videos/8209.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8209.jpg	GS_FR	fr	Julienne			
+TECHNIQUE_100772	http://monactifry.prod.apipro.groupe-seb.com/videos/8207.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8207.jpg	GS_FR	fr	Monder et Ã©pÃ©pinez une tomate			
+TECHNIQUE_100835	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8263.jpg		GS_FR	fr	DÃ©s de lotte			
+TECHNIQUE_100836	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8264.jpg		GS_FR	fr	DÃ©s de thon			
+TECHNIQUE_100837	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8265.jpg		GS_FR	fr	DÃ©s d'espadon			
+TECHNIQUE_100838	http://monactifry.prod.apipro.groupe-seb.com/videos/8266.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8266.jpg	GS_FR	fr	CrustacÃ©s			
+TECHNIQUE_100813	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8241.jpg		GS_FR	fr	Ciboule hachÃ©e			
+TECHNIQUE_100839	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8267.jpg		GS_FR	fr	Encornets			
+TECHNIQUE_100840								
+TECHNIQUE_100842	http://monactifry.prod.apipro.groupe-seb.com/videos/8269.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8269.jpg	GS_FR	fr	Fruits/Desserts			
+TECHNIQUE_100845	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8272.jpg		GS_FR	fr	DÃ©s de poire			
+TECHNIQUE_100846	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8273.jpg		GS_FR	fr	DÃ©s de pomme			
+TECHNIQUE_100847	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8274.jpg		GS_FR	fr	DÃ©s d'ananas			
+TECHNIQUE_100848	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8275.jpg		GS_FR	fr	DÃ©s de mangue			
+TECHNIQUE_100849	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8276.jpg		GS_FR	fr	Quartiers de pomme			
+TECHNIQUE_100850	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8277.jpg		GS_FR	fr	Quartiers de poire			
+TECHNIQUE_100851	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8278.jpg		GS_FR	fr	Morceaux d'ananas			
+TECHNIQUE_100852	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8279.jpg		GS_FR	fr	Rondelles d'ananas			
+TECHNIQUE_100853	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8280.jpg		GS_FR	fr	Rondelles de pomme			
+TECHNIQUE_100854	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8281.jpg		GS_FR	fr	Rondelles de banane			
+TECHNIQUE_100841	http://monactifry.prod.apipro.groupe-seb.com/videos/8268.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8268.jpg	GS_FR	fr	DÃ©cortiquer			
+TECHNIQUE_100843	http://monactifry.prod.apipro.groupe-seb.com/videos/8270.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8270.jpg	GS_FR	fr	DÃ©coupe d'un citron et prÃ©lÃ¨vement du zeste.			
+TECHNIQUE_100777	http://monactifry.prod.apipro.groupe-seb.com/videos/8212.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8212.jpg	GS_FR	fr	Pelez le cÃ©leri rave et dÃ©ocupez le en petits dÃ©s			
+TECHNIQUE_101819	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/42758.jpg		GS_INT	en	Kartoffeln			
+TECHNIQUE_100820	http://monactifry.prod.apipro.groupe-seb.com/videos/8248.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8248.jpg	GS_FR	fr	Volailles			
+TECHNIQUE_101866								
+TECHNIQUE_102006	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/98145.jpg		GS_FR	fr	Quartiers de pÃªche			
+TECHNIQUE_102007	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/98151.jpg		GS_FR	fr	Cubes de poulet			
+TECHNIQUE_102012	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104572.jpg		GS_FR	fr	Retirer la peau du saumon			
+TECHNIQUE_100769	http://monactifry.prod.apipro.groupe-seb.com/videos/8232.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/8232.jpg	GS_FR	fr	Oignon Ã©mincÃ©			
+TECHNIQUE_100761	http://monactifry.prod.apipro.groupe-seb.com/videos/43480.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43480.jpg	GS_FR	fr	Essuyer pomme de terre			
+TECHNIQUE_100844	http://monactifry.prod.apipro.groupe-seb.com/videos/43510.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/43510.jpg	GS_FR	fr	PrÃ©parer un ananas			
+TECHNIQUE_101686	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes			
+TECHNIQUE_101687	http://monactifry.prod.apipro.groupe-seb.com/videos/9780_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9780.jpg	GS_INT	en	Dry potato			
+TECHNIQUE_101689	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9782.jpg		GS_INT	en	Cut into wedges			
+TECHNIQUE_101691	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9784.jpg		GS_INT	en	Cut into slices			
+TECHNIQUE_101692	http://monactifry.prod.apipro.groupe-seb.com/videos/9785_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9785.jpg	GS_INT	en	Vegetables			
+TECHNIQUE_101693	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9786.jpg		GS_INT	en	Minced onion			
+TECHNIQUE_101694	http://monactifry.prod.apipro.groupe-seb.com/videos/9787.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9787.jpg	GS_INT	en	Chopped onion			
+TECHNIQUE_101695	http://monactifry.prod.apipro.groupe-seb.com/videos/9788.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9788.jpg	GS_INT	en	Preparation of garlic			
+TECHNIQUE_101696	http://monactifry.prod.apipro.groupe-seb.com/videos/9789_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9789.jpg	GS_INT	en	Peel and deseed a tomato			
+TECHNIQUE_101697	http://monactifry.prod.apipro.groupe-seb.com/videos/9790.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9790.jpg	GS_INT	en	Remove seeds from a pepper			
+TECHNIQUE_101698	http://monactifry.prod.apipro.groupe-seb.com/videos/9791.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9791.jpg	GS_INT	en	Julienne			
+TECHNIQUE_101699	http://monactifry.prod.apipro.groupe-seb.com/videos/9792.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9792.jpg	GS_INT	en	Cut cauliflower into florets			
+TECHNIQUE_101700	http://monactifry.prod.apipro.groupe-seb.com/videos/9793.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9793.jpg	GS_INT	en	Remove the stalk and cut green beans in halves			
+TECHNIQUE_101701	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed			
+TECHNIQUE_101703	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9796.jpg		GS_INT	en	Cucumber, cubed			
+TECHNIQUE_101705	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes			
+TECHNIQUE_101706	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9799.jpg		GS_INT	en	Pumpkin, cubed			
+TECHNIQUE_101707	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed			
+TECHNIQUE_101708	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips			
+TECHNIQUE_101710	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9803.jpg		GS_INT	en	Leek cut into strips			
+TECHNIQUE_101712	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9805.jpg		GS_INT	en	Celery cut into strips			
+TECHNIQUE_101713	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9806.jpg		GS_INT	en	Fennel cut into thin strips			
+TECHNIQUE_101714	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips			
+TECHNIQUE_101715	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9808.jpg		GS_INT	en	Onion cut into strips			
+TECHNIQUE_101717	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot			
+TECHNIQUE_101718	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9811.jpg		GS_INT	en	Sliced leek			
+TECHNIQUE_101719	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved			
+TECHNIQUE_101720	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9813.jpg		GS_INT	en	Leek in half slices			
+TECHNIQUE_101721	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9814.jpg		GS_INT	en	Finely diced carrots, onion, tomatoes and celery.			
+TECHNIQUE_101722	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9815.jpg		GS_INT	en	Cauliflower cut into  florets			
+TECHNIQUE_101723	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9816.jpg		GS_INT	en	Brocoli cut into florets			
+TECHNIQUE_101724	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9817.jpg		GS_INT	en	Finely chopped onion			
+TECHNIQUE_101725	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9818.jpg		GS_INT	en	Finely chopped  herb			
+TECHNIQUE_101726	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9819.jpg		GS_INT	en	Finely chopped  shallots			
+TECHNIQUE_101728	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9821.jpg		GS_INT	en	Finely chopped  chervil			
+TECHNIQUE_101729	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9822.jpg		GS_INT	en	Finely chopped  tarragon			
+TECHNIQUE_101730	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9786.jpg		GS_INT	en	Minced onion			
+TECHNIQUE_101731	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9823.jpg		GS_INT	en	Minced shallot			
+TECHNIQUE_101690	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips			
+TECHNIQUE_101704	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed			
+TECHNIQUE_101711	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9804.jpg		GS_INT	en	Courgette cut into strips			
+TECHNIQUE_101702	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed			
+TECHNIQUE_101709	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9802.jpg		GS_INT	en	Aubergine cut into strips			
+TECHNIQUE_101732	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9824.jpg		GS_INT	en	Minced garlic			
+TECHNIQUE_101733	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9825.jpg		GS_INT	en	Finely choped dill			
+TECHNIQUE_101734	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9826.jpg		GS_INT	en	Minced mushrooms			
+TECHNIQUE_101735	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9827.jpg		GS_INT	en	Minced ginger			
+TECHNIQUE_101736	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives			
+TECHNIQUE_101737	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9829.jpg		GS_INT	en	Chopped garlic			
+TECHNIQUE_101716	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9809.jpg		GS_INT	en	Slices of cougette			
+TECHNIQUE_101738	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley			
+TECHNIQUE_101739	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9831.jpg		GS_INT	en	Chopped mint			
+TECHNIQUE_101740	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9832.jpg		GS_INT	en	Chopped coriander			
+TECHNIQUE_101742	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9834.jpg		GS_INT	en	Artichoke cut into pieces			
+TECHNIQUE_101743	http://monactifry.prod.apipro.groupe-seb.com/videos/9835_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9835.jpg	GS_INT	en	Chicken			
+TECHNIQUE_101744	http://monactifry.prod.apipro.groupe-seb.com/videos/9836_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9836.jpg	GS_INT	en	To make a marinade			
+TECHNIQUE_101745	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9837.jpg		GS_INT	en	Cut into strips			
+TECHNIQUE_101746	http://monactifry.prod.apipro.groupe-seb.com/videos/9838_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9838.jpg	GS_INT	en	Meat			
+TECHNIQUE_101747	http://monactifry.prod.apipro.groupe-seb.com/videos/9839.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9839.jpg	GS_INT	en	Meatball			
+TECHNIQUE_101748	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips			
+TECHNIQUE_101749	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9841.jpg		GS_INT	en	Cubes of meat (beef)			
+TECHNIQUE_101750	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes			
+TECHNIQUE_101751	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9843.jpg		GS_INT	en	Veal cubes			
+TECHNIQUE_101752	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes			
+TECHNIQUE_101753	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9845.jpg		GS_INT	en	Cut into chunks			
+TECHNIQUE_101754	http://monactifry.prod.apipro.groupe-seb.com/videos/9846_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9846.jpg	GS_INT	en	Fish			
+TECHNIQUE_101755	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon			
+TECHNIQUE_101756	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9848.jpg		GS_INT	en	Diced monkfish			
+TECHNIQUE_101757	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9849.jpg		GS_INT	en	Diced tuna			
+TECHNIQUE_101758	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9850.jpg		GS_INT	en	Diced swordfish			
+TECHNIQUE_101759	http://monactifry.prod.apipro.groupe-seb.com/videos/9851_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9851.jpg	GS_INT	en	Shellfish			
+TECHNIQUE_101760	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid			
+TECHNIQUE_101761								
+TECHNIQUE_101762	http://monactifry.prod.apipro.groupe-seb.com/videos/9853.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9853.jpg	GS_INT	en	Peel			
+TECHNIQUE_101763	http://monactifry.prod.apipro.groupe-seb.com/videos/9854.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9854.jpg	GS_INT	en	Fruits/Desserts			
+TECHNIQUE_101764	http://monactifry.prod.apipro.groupe-seb.com/videos/9855.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9855.jpg	GS_INT	en	keep the zest			
+TECHNIQUE_101765	http://monactifry.prod.apipro.groupe-seb.com/videos/9856.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9856.jpg	GS_INT	en	Prepare a pineapple			
+TECHNIQUE_101766	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9857.jpg		GS_INT	en	Diced pear			
+TECHNIQUE_101767	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9858.jpg		GS_INT	en	Diced apple			
+TECHNIQUE_101768	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple			
+TECHNIQUE_101769	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9860.jpg		GS_INT	en	Diced mango			
+TECHNIQUE_101770	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges			
+TECHNIQUE_101771	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9862.jpg		GS_INT	en	Pear wedges			
+TECHNIQUE_101772	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9863.jpg		GS_INT	en	Pineapple chunks			
+TECHNIQUE_101773	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9864.jpg		GS_INT	en	Pineapple rings			
+TECHNIQUE_101775	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9866.jpg		GS_INT	en	Banana slices			
+TECHNIQUE_101776	http://monactifry.prod.apipro.groupe-seb.com/videos/9867.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9867.jpg	GS_INT	en	Add a(n) (ActiFry) spoon of oil			
+TECHNIQUE_101777	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9868.jpg		GS_INT	en	Ajoutez cuillÃ¨re d'huile			
+TECHNIQUE_101778	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	DÃ©coupe en cubes			
+TECHNIQUE_101779	http://monactifry.prod.apipro.groupe-seb.com/videos/9870.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9870.jpg	GS_INT	en	Peel the celeriac and cut into small dices			
+TECHNIQUE_101780	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9871.jpg		GS_INT	en	DÃ©coupe en laniÃ¨res			
+TECHNIQUE_101781								
+TECHNIQUE_101741	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9833.jpg		GS_INT	en	Julienned carrots			
+TECHNIQUE_101774	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9865.jpg		GS_INT	en	Apple rings			
+TECHNIQUE_101727	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil			
+TECHNIQUE_101905	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges			
+TECHNIQUE_101915	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple			
+TECHNIQUE_101917	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon			
+TECHNIQUE_101919	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes			
+TECHNIQUE_101921	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed			
+TECHNIQUE_101923	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed			
+TECHNIQUE_101925	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil			
+TECHNIQUE_101927	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips			
+TECHNIQUE_101929	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes			
+TECHNIQUE_101933	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed			
+TECHNIQUE_101931	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips			
+TECHNIQUE_101935	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips			
+TECHNIQUE_101939	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes			
+TECHNIQUE_101941	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot			
+TECHNIQUE_101943	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved			
+TECHNIQUE_101945	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid			
+TECHNIQUE_101947	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed			
+TECHNIQUE_101872	http://monactifry.prod.apipro.groupe-seb.com/videos/59970.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59970.jpg	GS_INT	en	Peel and deseed a tomato			
+TECHNIQUE_101884	http://monactifry.prod.apipro.groupe-seb.com/videos/59985.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59985.jpg	GS_INT	en	Cut cauliflowers into florets			
+TECHNIQUE_101894	http://monactifry.prod.apipro.groupe-seb.com/videos/60000.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/60000.jpg	GS_INT	en	Prepare a pineapple			
+TECHNIQUE_101912	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley			
+TECHNIQUE_101913	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	DÃ©coupe en cubes			
+TECHNIQUE_101914	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips			
+TECHNIQUE_101916	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9859.jpg		GS_INT	en	Diced pineapple			
+TECHNIQUE_101918	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9847.jpg		GS_INT	en	Diced salmon			
+TECHNIQUE_101920	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9798.jpg		GS_INT	en	Diced tomatoes			
+TECHNIQUE_101922	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9795.jpg		GS_INT	en	Aubergine, cubed			
+TECHNIQUE_101924	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9800.jpg		GS_INT	en	Fennel, cubed			
+TECHNIQUE_101928	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9807.jpg		GS_INT	en	Hot chilli cut into strips			
+TECHNIQUE_101930	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9842.jpg		GS_INT	en	Lamb cubes			
+TECHNIQUE_101932	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9801.jpg		GS_INT	en	Pepper cut into strips			
+TECHNIQUE_101934	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9794.jpg		GS_INT	en	Pepper, cubed			
+TECHNIQUE_101936	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9840.jpg		GS_INT	en	Pork cut into strips			
+TECHNIQUE_101938	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes			
+TECHNIQUE_101940	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9844.jpg		GS_INT	en	Rabbit cubes			
+TECHNIQUE_101942	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9810.jpg		GS_INT	en	Sliced carrot			
+TECHNIQUE_101944	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9812.jpg		GS_INT	en	Slices of cucumber, halved			
+TECHNIQUE_101946	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9852.jpg		GS_INT	en	Squid			
+TECHNIQUE_101948	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9797.jpg		GS_INT	en	Courgette, cubed			
+TECHNIQUE_101926	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9820.jpg		GS_INT	en	Finely chopped  basil			
+TECHNIQUE_101864	http://monactifry.prod.apipro.groupe-seb.com/videos/59920.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59920.jpg	GS_INT	en	Sliced onion			
+TECHNIQUE_101870	http://monactifry.prod.apipro.groupe-seb.com/videos/59928.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59928.jpg	GS_INT	en	vegetables			
+TECHNIQUE_101890	http://monactifry.prod.apipro.groupe-seb.com/videos/59994.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59994.jpg	GS_INT	en	Meatball			
+TECHNIQUE_101891	http://monactifry.prod.apipro.groupe-seb.com/videos/59995.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59995.jpg	GS_INT	en	Meat			
+TECHNIQUE_101892	http://monactifry.prod.apipro.groupe-seb.com/videos/59996.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59996.jpg	GS_INT	en	Shellfish			
+TECHNIQUE_101893	http://monactifry.prod.apipro.groupe-seb.com/videos/59998.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59998.jpg	GS_INT	en	Keep the zest			
+TECHNIQUE_101910	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9861.jpg		GS_INT	en	Apple wedges			
+TECHNIQUE_101911	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives			
+TECHNIQUE_101937	http://monactifry.prod.apipro.groupe-seb.com/videos/9779_3.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9779.jpg	GS_INT	en	Potatoes			
+TECHNIQUE_101688	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9781.jpg		GS_INT	en	Cut into cubes			
+TECHNIQUE_101860	http://monactifry.prod.apipro.groupe-seb.com/videos/59912.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59912.jpg	GS_INT	en	Add a(n) (ActiFry) spoon of oil			
+TECHNIQUE_101906	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9828.jpg		GS_INT	en	Chopped chives			
+TECHNIQUE_101907	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9830.jpg		GS_INT	en	Chopped parsley			
+TECHNIQUE_101908	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9869.jpg		GS_INT	en	DÃ©coupe en cubes			
+TECHNIQUE_101909	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/9783.jpg		GS_INT	en	Cut into chips			
+TECHNIQUE_101863	http://monactifry.prod.apipro.groupe-seb.com/videos/59917.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59917.jpg	GS_INT	en	chopped onion			
+TECHNIQUE_101867	http://monactifry.prod.apipro.groupe-seb.com/videos/59923.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59923.jpg	GS_INT	en	Cut cauliflowers into florets			
+TECHNIQUE_101861	http://monactifry.prod.apipro.groupe-seb.com/videos/59914.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59914.jpg	GS_INT	en	Dry potatoe			
+TECHNIQUE_101862	http://monactifry.prod.apipro.groupe-seb.com/videos/59916.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59916.jpg	GS_INT	en	General technic of potatoe			
+TECHNIQUE_101874	http://monactifry.prod.apipro.groupe-seb.com/videos/59973.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59973.jpg	GS_INT	en	Meat			
+TECHNIQUE_101873	http://monactifry.prod.apipro.groupe-seb.com/videos/59972.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59972.jpg	GS_INT	en	Meatball			
+TECHNIQUE_101868	http://monactifry.prod.apipro.groupe-seb.com/videos/59924_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59924.jpg	GS_INT	en	Peel the celeriac and cut into small dices			
+TECHNIQUE_101865	http://monactifry.prod.apipro.groupe-seb.com/videos/59922.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59922.jpg	GS_INT	en	Preparation of garlic			
+TECHNIQUE_101877	http://monactifry.prod.apipro.groupe-seb.com/videos/59977.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59977.jpg	GS_INT	en	Prepare a pineapple			
+TECHNIQUE_101869	http://monactifry.prod.apipro.groupe-seb.com/videos/59927.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59927.jpg	GS_INT	en	Remove seeds from pepper			
+TECHNIQUE_101871	http://monactifry.prod.apipro.groupe-seb.com/videos/59929.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59929.jpg	GS_INT	en	Remove the stalk and cut green beans in halves			
+TECHNIQUE_101875	http://monactifry.prod.apipro.groupe-seb.com/videos/59974.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59974.jpg	GS_INT	en	Shellfish			
+TECHNIQUE_102011	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104313.jpg		GS_INT	en	Chicken cube			
+TECHNIQUE_102014	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104983.jpg		GS_INT	en	Remove skin from salmon			
+TECHNIQUE_102016	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/105302.jpg		GS_INT	en	Peach quarters			
+TECHNIQUE_102017	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/105427.jpg		GS_INT	en	Diced courgette			
+TECHNIQUE_101841								
+TECHNIQUE_101888	http://monactifry.prod.apipro.groupe-seb.com/videos/59991.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59991.jpg	GS_INT	en	Remove the stalk and cut green beans in halves			
+TECHNIQUE_101878	http://monactifry.prod.apipro.groupe-seb.com/videos/59978.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59978.jpg	GS_INT	en	Add an Actifry spoon of oil			
+TECHNIQUE_101879	http://monactifry.prod.apipro.groupe-seb.com/videos/59979.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59979.jpg	GS_INT	en	Dry potatoes			
+TECHNIQUE_101880	http://monactifry.prod.apipro.groupe-seb.com/videos/59980.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59980.jpg	GS_INT	en	General technic of potatoe			
+TECHNIQUE_101881	http://monactifry.prod.apipro.groupe-seb.com/videos/59981.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59981.jpg	GS_INT	en	Chopped onion			
+TECHNIQUE_101882	http://monactifry.prod.apipro.groupe-seb.com/videos/59982.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59982.jpg	GS_INT	en	Sliced onion			
+TECHNIQUE_101883	http://monactifry.prod.apipro.groupe-seb.com/videos/59984.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59984.jpg	GS_INT	en	Preparation of garlic			
+TECHNIQUE_101885	http://monactifry.prod.apipro.groupe-seb.com/videos/59986.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59986.jpg	GS_INT	en	Peel the celeriac and cut into small dices			
+TECHNIQUE_101886	http://monactifry.prod.apipro.groupe-seb.com/videos/59988.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59988.jpg	GS_INT	en	Remove seeds from pepper			
+TECHNIQUE_101887	http://monactifry.prod.apipro.groupe-seb.com/videos/59989.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59989.jpg	GS_INT	en	Vegetables			
+TECHNIQUE_101889	http://monactifry.prod.apipro.groupe-seb.com/videos/59993.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/59993.jpg	GS_INT	en	To clean a tomatoe			
+TECHNIQUE_106163	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20109.jpg		GS_DE	de	Gehackter Koriander			
+TECHNIQUE_106169	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20115.jpg		GS_DE	de	In WÃ¼rfel schneiden			
+TECHNIQUE_106173	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20119.jpg		GS_DE	de	Fleisch wÃ¼rfeln (Rind)			
+TECHNIQUE_106177	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20123.jpg		GS_DE	de	In Scheiben schneiden (Wurst)			
+TECHNIQUE_106181	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20127.jpg		GS_DE	de	ThunfischwÃ¼rfel			
+TECHNIQUE_106190	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20135.jpg		GS_DE	de	Einen ActiFry-LÃ¶ffel Ã–l hinzufÃ¼gen			
+TECHNIQUE_106185								
+TECHNIQUE_106193	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20138.jpg		GS_DE	de	In Scheiben schneiden			
+TECHNIQUE_106205	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20150.jpg		GS_DE	de	GewÃ¼rfelte Aubergine			
+TECHNIQUE_106209	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20154.jpg		GS_DE	de	GewÃ¼rfelter KÃ¼rbis			
+TECHNIQUE_106213	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20158.jpg		GS_DE	de	Lauch in Streifen schneiden			
+TECHNIQUE_106217	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20162.jpg		GS_DE	de	Peperoni In Streifen schneiden			
+TECHNIQUE_106220	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20165.jpg		GS_DE	de	Karottenscheiben			
+TECHNIQUE_106223	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20168.jpg		GS_DE	de	Halbe Lauchscheiben			
+TECHNIQUE_106226	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20171.jpg		GS_DE	de	In RÃ¶schen geschnittener Brokkoli			
+TECHNIQUE_106229	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20174.jpg		GS_DE	de	Fein gehacktes Basilikum			
+TECHNIQUE_106232	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20177.jpg		GS_DE	de	Gehackte Schalotte			
+TECHNIQUE_106238	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20183.jpg		GS_DE	de	AnanasstÃ¼ckchen			
+TECHNIQUE_106335	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20195.jpg		GS_DE	de	Oignon ciselÃ©			
+TECHNIQUE_106158	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20104.jpg		GS_DE	de	Gehackter Ingwer			
+TECHNIQUE_106164	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20110.jpg		GS_DE	de	Karotten in Julienne-Streifen			
+TECHNIQUE_106174	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20120.jpg		GS_DE	de	GewÃ¼rfeltes Lammfleisch			
+TECHNIQUE_106182	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20128.jpg		GS_DE	de	SchwertfischwÃ¼rfel			
+TECHNIQUE_106206	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20151.jpg		GS_DE	de	GewÃ¼rfelte Gurke			
+TECHNIQUE_106210	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20155.jpg		GS_DE	de	GewÃ¼rfelter Fenchel			
+TECHNIQUE_106233	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20178.jpg		GS_DE	de	Gehackter Dill			
+TECHNIQUE_106186	http://monactifry.prod.apipro.groupe-seb.com/videos/20131.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20131.jpg	GS_DE	de	SchÃ¤len			
+TECHNIQUE_106194	http://monactifry.prod.apipro.groupe-seb.com/videos/20139.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20139.jpg	GS_DE	de	GemÃ¼se			
+TECHNIQUE_106178	http://monactifry.prod.apipro.groupe-seb.com/videos/20124.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20124.jpg	GS_DE	de	Fisch			
+TECHNIQUE_106170	http://monactifry.prod.apipro.groupe-seb.com/videos/20116.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20116.jpg	GS_DE	de	Fleisch			
+TECHNIQUE_106187	http://monactifry.prod.apipro.groupe-seb.com/videos/20132.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20132.jpg	GS_DE	de	FrÃ¼chte / SÃ¼ÃŸspeisen			
+TECHNIQUE_106203	http://monactifry.prod.apipro.groupe-seb.com/videos/20148.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20148.jpg	GS_DE	de	Sellerie schÃ¤len und in kleine WÃ¼rfel schneiden			
+TECHNIQUE_106191	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20136.jpg		GS_DE	de	In Kartoffelspalten schneiden			
+TECHNIQUE_106214	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20159.jpg		GS_DE	de	Zucchini in Streifen schneiden			
+TECHNIQUE_106218	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20163.jpg		GS_DE	de	Zwiebel in Streifen schneiden			
+TECHNIQUE_106221	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20166.jpg		GS_DE	de	Geschnittener Lauch			
+TECHNIQUE_106224	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20169.jpg		GS_DE	de	Fein gewÃ¼rfelte Karotten, Zwiebeln, Tomaten und Sellerie.			
+TECHNIQUE_106227	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20172.jpg		GS_DE	de	Fein gehackte KrÃ¤uter			
+TECHNIQUE_106230	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20175.jpg		GS_DE	de	Fein gehackter Kerbel			
+TECHNIQUE_106236	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20181.jpg		GS_DE	de	BirnenwÃ¼rfel			
+TECHNIQUE_106239	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20184.jpg		GS_DE	de	MangowÃ¼rfel			
+TECHNIQUE_106242	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20187.jpg		GS_DE	de	AnanasstÃ¼cke			
+TECHNIQUE_106245	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20190.jpg		GS_DE	de	Bananenscheiben			
+TECHNIQUE_106333	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20193.jpg		GS_DE	de	DÃ©coupe en laniÃ¨res			
+TECHNIQUE_106159	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20105.jpg		GS_DE	de	Gehackter Schnittlauch			
+TECHNIQUE_106165	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20111.jpg		GS_DE	de	In StÃ¼cke geschnittene Artischocke			
+TECHNIQUE_106175	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20121.jpg		GS_DE	de	GewÃ¼rfeltes Kalbsfleisch			
+TECHNIQUE_106179	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20125.jpg		GS_DE	de	LachswÃ¼rfel			
+TECHNIQUE_106195	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20140.jpg		GS_DE	de	Fein gehackte Zwiebel			
+TECHNIQUE_106160	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20106.jpg		GS_DE	de	Gehackter Knoblauch			
+TECHNIQUE_106234	http://monactifry.prod.apipro.groupe-seb.com/videos/20179.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20179.jpg	GS_DE	de	Zerschneiden Sie eine Zitrone und reiben Sie die Zitronenschale			
+TECHNIQUE_106196	http://monactifry.prod.apipro.groupe-seb.com/videos/20141.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20141.jpg	GS_DE	de	Gehackte Zwiebel			
+TECHNIQUE_106200	http://monactifry.prod.apipro.groupe-seb.com/videos/20145.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20145.jpg	GS_DE	de	GemÃ¼sestreifen			
+TECHNIQUE_106331	http://monactifry.prod.apipro.groupe-seb.com/videos/20191_2.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20191_3.jpg	GS_DE	de	Einen ActiFry-LÃ¶ffel Ã–l hinzufÃ¼gen			
+TECHNIQUE_106189	http://monactifry.prod.apipro.groupe-seb.com/videos/20134_1.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20134.jpg	GS_DE	de	Kartoffeln abspÃ¼len			
+TECHNIQUE_106244	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20189.jpg		GS_DE	de	Apfelringe			
+TECHNIQUE_106207	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20152.jpg		GS_DE	de	GewÃ¼rfelte Zucchini			
+TECHNIQUE_106211	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20156.jpg		GS_DE	de	Paprika In Streifen schneiden			
+TECHNIQUE_106215	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20160.jpg		GS_DE	de	Sellerie in Streifen schneiden			
+TECHNIQUE_106219	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20164.jpg		GS_DE	de	Zucchinischeiben			
+TECHNIQUE_106222	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20167.jpg		GS_DE	de	Halbe Gurkenscheiben			
+TECHNIQUE_106225	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20170.jpg		GS_DE	de	In RÃ¶schen geschnittener Blumenkohl			
+TECHNIQUE_106228	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20173.jpg		GS_DE	de	Fein gehackte Schalotten			
+TECHNIQUE_106231	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20176.jpg		GS_DE	de	Fein gehackter Estragon			
+TECHNIQUE_106237	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20182.jpg		GS_DE	de	ApfelwÃ¼rfel			
+TECHNIQUE_106240	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20185.jpg		GS_DE	de	Apfelspalten			
+TECHNIQUE_106243	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20188.jpg		GS_DE	de	Ananasringe			
+TECHNIQUE_106334	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20194.jpg		GS_DE	de	DÃ©coupe en dÃ©s			
+TECHNIQUE_106161	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20107.jpg		GS_DE	de	Gehackte Petersilie			
+TECHNIQUE_106162	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20108.jpg		GS_DE	de	Gehackte Minze			
+TECHNIQUE_106168	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20114.jpg		GS_DE	de	In Streifen schneiden			
+TECHNIQUE_106172	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20118.jpg		GS_DE	de	Schweinefilet in Streifen schneiden			
+TECHNIQUE_106176	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20122.jpg		GS_DE	de	GewÃ¼rfeltes Kaninchenfleisch			
+TECHNIQUE_106180	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20126.jpg		GS_DE	de	SeeteufelwÃ¼rfel			
+TECHNIQUE_106184	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20130.jpg		GS_DE	de	Tintenfisch			
+TECHNIQUE_106192	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20137.jpg		GS_DE	de	In Pommes frites schneiden			
+TECHNIQUE_106204	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20149.jpg		GS_DE	de	GewÃ¼rfelte Paprika			
+TECHNIQUE_106208	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20153.jpg		GS_DE	de	GewÃ¼rfelte Tomate			
+TECHNIQUE_106212	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20157.jpg		GS_DE	de	Aubergine in Streifen schneiden			
+TECHNIQUE_106216	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20161.jpg		GS_DE	de	Fenchel in Streifen schneiden			
+TECHNIQUE_106188	http://monactifry.prod.apipro.groupe-seb.com/videos/20133_6.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20133_1.jpg	GS_DE	de	Kartoffeln			
+TECHNIQUE_106198	http://monactifry.prod.apipro.groupe-seb.com/videos/20143.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20143.jpg	GS_DE	de	Eine Tomate schÃ¤len und entkernen			
+TECHNIQUE_106183	http://monactifry.prod.apipro.groupe-seb.com/videos/20129.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20129.jpg	GS_DE	de	MeeresfrÃ¼chte			
+TECHNIQUE_106167	http://monactifry.prod.apipro.groupe-seb.com/videos/20113.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20113.jpg	GS_DE	de	FÃ¼r eine Marinade			
+TECHNIQUE_106166	http://monactifry.prod.apipro.groupe-seb.com/videos/20112.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20112.jpg	GS_DE	de	Huhn			
+TECHNIQUE_102009	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/102180.jpg		GS_DE	de	Pfirsichspalten			
+TECHNIQUE_102010	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/102337.jpg		GS_DE	de	GewÃ¼rfeltes HÃ¤hnchen			
+TECHNIQUE_102013	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/104573.jpg		GS_DE	de	Lachshaut abziehen			
+TECHNIQUE_106235	http://monactifry.prod.apipro.groupe-seb.com/videos/20180.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20180.jpg	GS_DE	de	Bereiten Sie eine Ananas vor			
+TECHNIQUE_106332	http://monactifry.prod.apipro.groupe-seb.com/videos/20192.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20192.jpg	GS_DE	de	Fein gehackte Zwiebel			
+TECHNIQUE_106202	http://monactifry.prod.apipro.groupe-seb.com/videos/20147.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20147.jpg	GS_DE	de	Brechbohnen entstielen und durchschneiden			
+TECHNIQUE_106197	http://monactifry.prod.apipro.groupe-seb.com/videos/20142.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20142.jpg	GS_DE	de	Vorbereitung von Knoblauch			
+TECHNIQUE_106201	http://monactifry.prod.apipro.groupe-seb.com/videos/20146.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20146.jpg	GS_DE	de	Blumenkohl in RÃ¶schen schneiden			
+TECHNIQUE_106171	http://monactifry.prod.apipro.groupe-seb.com/videos/20117.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20117.jpg	GS_DE	de	HackfleischbÃ¤llchen			
+TECHNIQUE_106199	http://monactifry.prod.apipro.groupe-seb.com/videos/20144.mp4	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20144.jpg	GS_DE	de	Eine Paprikaschote entkernen			
+TECHNIQUE_106157	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20103.jpg		GS_DE	de	Gehackte Champignons			
+TECHNIQUE_106241	http://monactifry.prod.apipro.groupe-seb.com/thumbs/original/20186.jpg		GS_DE	de	Birnenspalten			
+TECHNIQUE_101792	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17640.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17640.jpg	GS_FR	fr	Boulette de viande			
+TECHNIQUE_101795	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17651.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17651.jpg	GS_FR	fr	DÃ©couper des rosettes de chou fleur			
+TECHNIQUE_101799	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17658.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17658.jpg	GS_FR	fr	Monder et Ã©pÃ©pinez une tomate			
+TECHNIQUE_101802	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17663.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17663.jpg	GS_FR	fr	PrÃ©paration d'un ail			
+TECHNIQUE_101803	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17665.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17665.jpg	GS_FR	fr	PrÃ©parer un ananas			
+TECHNIQUE_101793	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17649.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17649.jpg	GS_FR	fr	DÃ©cortiquer			
+TECHNIQUE_101796	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17652.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17652.jpg	GS_FR	fr	EpÃ©piner un poivron			
+TECHNIQUE_101800	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17660.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17660.jpg	GS_FR	fr	Oignon Ã©mincÃ©			
+TECHNIQUE_101794	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17650.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17650.jpg	GS_FR	fr	DÃ©coupe d'un citron et prÃ©lÃ¨vement du zeste			
+TECHNIQUE_101797	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17655.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17655.jpg	GS_FR	fr	Equeuter et couper en 2 haricot vert			
+TECHNIQUE_101801	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17662.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17662.jpg	GS_FR	fr	Pelez le cÃ©leri rave et dÃ©coupez le en petits dÃ©s			
+TECHNIQUE_101798	http://monautocuiseur.prod.apipro.groupe-seb.com/videos/17657.mp4	http://monautocuiseur.prod.apipro.groupe-seb.com/thumbs/original/17657.jpg	GS_FR	fr	Julienne			
+TECHNIQUE_101973	http://cookeo.prod.apipro.groupe-seb.com/videos/61558.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61558.jpg	GS_FR	fr	PrÃ©parer une julienne de lÃ©gumes			
+TECHNIQUE_101975	http://cookeo.prod.apipro.groupe-seb.com/videos/61560.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61560.jpg	GS_FR	fr	Pelez le cÃ©leri rave et dÃ©ocupez le en petits dÃ©s			
+TECHNIQUE_101983	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68127.jpg		GS_FR	fr	HÃ¢cher le chocolat			
+TECHNIQUE_101984	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68126.jpg		GS_FR	fr	Tailler un poivron			
+TECHNIQUE_101982	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65659.jpg		GS_FR	fr	Couper les poireau en julienne			
+TECHNIQUE_101977	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61895.jpg		GS_FR	fr	DÃ©cortiquer les crevettes			
+TECHNIQUE_101971	http://cookeo.prod.apipro.groupe-seb.com/videos/61556.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61556.jpg	GS_FR	fr	Epepiner un poivron			
+TECHNIQUE_101979	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/63157.jpg		GS_FR	fr	Couper le poulet en lamelles			
+TECHNIQUE_101978	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/63158.jpg		GS_FR	fr	Couper le poulet en cubes			
+TECHNIQUE_101980	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65658.jpg		GS_FR	fr	Couper les poireau en julienne			
+TECHNIQUE_101981	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/65660.jpg		GS_FR	fr	Couper les carottes en julienne			
+TECHNIQUE_101955	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60840.jpg		GS_FR	fr	Emincer les Ã©chalotes			
+TECHNIQUE_101821	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55730.jpg		GS_FR	fr	Ciseler du basilic			
+TECHNIQUE_101958	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60844.jpg		GS_FR	fr	HÃ¢cher le persil			
+TECHNIQUE_101822	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60830.jpg		GS_FR	fr	Ciseler la menthe			
+TECHNIQUE_101823	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/56138.jpg		GS_FR	fr	Ciseler une Ã©chalotte			
+TECHNIQUE_101824	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55733.jpg		GS_FR	fr	Couper les carottes en dÃ©s			
+TECHNIQUE_101825	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55734.jpg		GS_FR	fr	Couper les poires en cubes			
+TECHNIQUE_101828	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55738.jpg		GS_FR	fr	Emincer du basilic			
+TECHNIQUE_101830	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55740.jpg		GS_FR	fr	Emincer les champignons			
+TECHNIQUE_101831	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55741.jpg		GS_FR	fr	Emincer les oignons			
+TECHNIQUE_101829	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55739.jpg		GS_FR	fr	Emincer le chou fleur			
+TECHNIQUE_101956	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60841.jpg		GS_FR	fr	Enlever la peau du saumon			
+TECHNIQUE_101834	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55745.jpg		GS_FR	fr	Peler l'ananas			
+TECHNIQUE_101959	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60846.jpg		GS_FR	fr	Ramollir la gÃ©latine			
+TECHNIQUE_101835	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55746.jpg		GS_FR	fr	RÃ©aliser des boulettes			
+TECHNIQUE_101836	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55747.jpg		GS_FR	fr	Tailler du gingembre en julienne			
+TECHNIQUE_101838	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/56139.jpg		GS_FR	fr	Couper les mangues en dÃ©s			
+TECHNIQUE_101832	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/55743.jpg		GS_FR	fr	lever un supreme d'agrume			
+TECHNIQUE_101972	http://cookeo.prod.apipro.groupe-seb.com/videos/61557.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61557.jpg	GS_FR	fr	Equeuter et couper en 2 des haricots verts			
+TECHNIQUE_101827	http://cookeo.prod.apipro.groupe-seb.com/videos/60829.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60829.jpg	GS_FR	fr	DÃ©cortiquer les crevettes			
+TECHNIQUE_101974	http://cookeo.prod.apipro.groupe-seb.com/videos/61559.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61559.jpg	GS_FR	fr	Monder et Ã©pÃ©pinez une tomate			
+TECHNIQUE_101833	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/68125.jpg		GS_FR	fr	Monter les blancs en neige			
+TECHNIQUE_101951	http://cookeo.prod.apipro.groupe-seb.com/videos/60819.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60819.jpg	GS_FR	fr	DÃ©couper des rosettes de chou-fleur			
+TECHNIQUE_101950	http://cookeo.prod.apipro.groupe-seb.com/videos/60820.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60820.jpg	GS_FR	fr	DÃ©coupe d'une orange et prÃ©lÃ¨vement du zeste			
+TECHNIQUE_101952	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60837.jpg		GS_FR	fr	Ciseler la coriandre			
+TECHNIQUE_101953	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60838.jpg		GS_FR	fr	Couper les pommes de terre en cubes			
+TECHNIQUE_101954	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60839.jpg		GS_FR	fr	DÃ©germer de l'ail			
+TECHNIQUE_101957	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60843.jpg		GS_FR	fr	EpÃ©piner le concombre			
+TECHNIQUE_101960	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/60847.jpg		GS_FR	fr	RÃ¢per du gingembre			
+TECHNIQUE_101976	http://cookeo.prod.apipro.groupe-seb.com/videos/61561.mp4	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/61561.jpg	GS_FR	fr	PrÃ©parer un ananas			
+TECHNIQUE_102030	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106045.jpg		GS_GB	en	Peel the pineapple			
+TECHNIQUE_102029	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106051.jpg		GS_GB	en	Soak the gelatin			
+TECHNIQUE_102005	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/98120.jpg		GS_GB	en	Slice the mushrooms	GS_AU	en	Slice the mushrooms
+TECHNIQUE_102018	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106040.jpg		GS_GB	en	Grate the ginger	GS_AU	en	Grate the ginger
+TECHNIQUE_102021	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106038.jpg		GS_GB	en	Degerm the garlic cloves	GS_AU	en	Degerm the garlic cloves
+TECHNIQUE_102042	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106041.jpg		GS_GB	en	Julienne carrots	GS_AU	en	Julienne carrots
+TECHNIQUE_102031	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106046.jpg		GS_GB	en	Remove skin from salmon			
+TECHNIQUE_102044	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106056.jpg		GS_GB	en	Julienne leek, white part			
+TECHNIQUE_102022	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106034.jpg		GS_GB	en	Cut potatoes into bite-size			
+TECHNIQUE_102020	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106047.jpg		GS_GB	en	Seed the cucumber	GS_AU	en	Seed the cucumber
+TECHNIQUE_102032	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106054.jpg		GS_GB	en	Slice the cauliflower	GS_AU	en	Slice the cauliflower
+TECHNIQUE_102023	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106026.jpg		GS_GB	en	Chop coriander leaves	GS_AU	en	Chop coriander leaves
+TECHNIQUE_102045	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106035.jpg		GS_GB	en	Cut the chicken into cubes	GS_AU	en	Cut the chicken into cubes
+TECHNIQUE_102024	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106052.jpg		GS_GB	en	Whisk the egg whites 			
+TECHNIQUE_102046	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106055.jpg		GS_GB	en	Slice the chicken			
+TECHNIQUE_102033	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106030.jpg		GS_GB	en	Chop the onion	GS_AU	en	Chop the onion
+TECHNIQUE_102025	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106048.jpg		GS_GB	en	Segment the orange			
+TECHNIQUE_102047	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106044.jpg		GS_GB	en	Peel a prawn	GS_AU	en	Peel a prawn
+TECHNIQUE_102026	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106036.jpg		GS_GB	en	Cut the mango into cubes			
+TECHNIQUE_102027	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106042.jpg		GS_GB	en	Julienne garlic cloves	GS_AU	en	Julienne garlic cloves
+TECHNIQUE_102036	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106037.jpg		GS_GB	en	Cut the pears into cubes			
+TECHNIQUE_102049	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106033.jpg		GS_GB	en	Cut pepper	GS_AU	en	Cut pepper
+TECHNIQUE_102050	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106025.jpg		GS_GB	en	Chop chocolate	GS_AU	en	Chop chocolate
+TECHNIQUE_102028	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106039.jpg		GS_GB	en	Form meat balls	GS_AU	en	Form meat balls
+TECHNIQUE_102051	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106027.jpg		GS_GB	en	Chop the basil			
+TECHNIQUE_102039	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106028.jpg		GS_GB	en	Chop the mint	GS_AU	en	Chop the mint
+TECHNIQUE_102040	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106031.jpg		GS_GB	en	Chop the parsley	GS_AU	en	Chop the parsley
+TECHNIQUE_102041	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/106032.jpg		GS_GB	en	Chop the shallot	GS_AU	en	Chop the shallot
+TECHNIQUE_102414	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131553.jpg		GS_FR	fr	Hacher les tomates			
+TECHNIQUE_102415	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131556.jpg		GS_FR	fr	Battre les Å“ufs			
+TECHNIQUE_102416	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131557.jpg		GS_FR	fr	Couper les carottes en tronÃ§ons			
+TECHNIQUE_102418	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131559.jpg		GS_FR	fr	Ã‰mincer les carottes			
+TECHNIQUE_102419	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131560.jpg		GS_FR	fr	Ciseler les oignons			
+TECHNIQUE_102420	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131561.jpg		GS_FR	fr	Couper les oignons en morceaux			
+TECHNIQUE_102421	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131563.jpg		GS_FR	fr	Tailler les oranges en tranches			
+TECHNIQUE_102422	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131564.jpg		GS_FR	fr	Couper les courgettes en dÃ©s			
+TECHNIQUE_102423	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131565.jpg		GS_FR	fr	Hacher l'ail			
+TECHNIQUE_102424	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131566.jpg		GS_FR	fr	Tailler les aubergines en cubes			
+TECHNIQUE_102426	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131570.jpg		GS_FR	fr	Ã‰mincer les blettes			
+TECHNIQUE_102427	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131572_1.jpg		GS_FR	fr	Ã‰mincer le cÃ©leri branche			
+TECHNIQUE_102428	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131574.jpg		GS_FR	fr	Mixer contenu blanc beige			
+TECHNIQUE_102429	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131575.jpg		GS_FR	fr	Mixer contenu rouge			
+TECHNIQUE_102430	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131576.jpg		GS_FR	fr	Mixer contenu marron			
+TECHNIQUE_102431	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/131738.jpg		GS_FR	fr	Couper la mangue en dÃ©s			
+TECHNIQUE_102434	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/134556.jpg		GS_FR	fr	Emincer les poireaux			
+TECHNIQUE_102048								
+TECHNIQUE_102037								
+TECHNIQUE_102090	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109766.jpg		GS_BE	nl	Raspt gember			
+TECHNIQUE_102092	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109768.jpg		GS_BE	nl	Haalt kiemen uit de look			
+TECHNIQUE_102093	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109769.jpg		GS_BE	nl	Snijdt aardappelen in blokjes			
+TECHNIQUE_102094	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109771.jpg		GS_BE	nl	Snijdt koriander fijn			
+TECHNIQUE_102096	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109773.jpg		GS_BE	nl	Snijdt citrusfruit in partjes			
+TECHNIQUE_102097	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109774.jpg		GS_BE	nl	Snijdt mango's in blokjes			
+TECHNIQUE_102098	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109775.jpg		GS_BE	nl	Snijdt gember in julienne			
+TECHNIQUE_102099	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109776.jpg		GS_BE	nl	Rolt er balletjes van			
+TECHNIQUE_102100	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109777.jpg		GS_BE	nl	Laat gelatine weken			
+TECHNIQUE_102101	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109778.jpg		GS_BE	nl	Schilt ananas			
+TECHNIQUE_102102	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109779.jpg		GS_BE	nl	Haalt het vel van de zalm			
+TECHNIQUE_102103	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109782.jpg		GS_BE	nl	Snijdt bloemkool in dunne plakjes			
+TECHNIQUE_102104	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109783.jpg		GS_BE	nl	Snijdt ajuinen in halve ringen			
+TECHNIQUE_102105	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109784.jpg		GS_BE	nl	Snijdt champignons in dunne plakjes			
+TECHNIQUE_102107	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109786.jpg		GS_BE	nl	Snijdt peren in blokjes			
+TECHNIQUE_102108	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109787.jpg		GS_BE	nl	Snijdt wortelen in blokjes			
+TECHNIQUE_102109	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109788.jpg		GS_BE	nl	Snijdt een sjalot fijn			
+TECHNIQUE_102110	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109789.jpg		GS_BE	nl	Snijdt munt fijn			
+TECHNIQUE_102111	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109790.jpg		GS_BE	nl	Hakt peterselie fijn			
+TECHNIQUE_102112	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109791.jpg		GS_BE	nl	Snijdt sjalotten in ringen			
+TECHNIQUE_102113	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109792.jpg		GS_BE	nl	Snijdt wortelen in julienne			
+TECHNIQUE_102114	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109793.jpg		GS_BE	nl	Snijdt het wit van de prei in julienne			
+TECHNIQUE_102115	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109794.jpg		GS_BE	nl	Snijdt kip in blokjes			
+TECHNIQUE_102116	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109795.jpg		GS_BE	nl	Snijdt kip in reepjes			
+TECHNIQUE_102117	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109796.jpg		GS_BE	nl	Pelt garnalen			
+TECHNIQUE_102118	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109797.jpg		GS_BE	nl	Snijdt prei in julienne			
+TECHNIQUE_102119	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109798.jpg		GS_BE	nl	Snijdt een paprika in stukjes			
+TECHNIQUE_102120	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109800.jpg		GS_BE	nl	Hakt de chocolade in stukjes			
+TECHNIQUE_102121	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109801.jpg		GS_BE	nl	Snijdt basilicum fijn			
+TECHNIQUE_102442	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/144545.jpg		GS_BE	fr	Ciseler le basilic			
+TECHNIQUE_102510	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148305.jpg		GS_BE	fr	Ciseler la coriandre			
+TECHNIQUE_102511	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148309.jpg		GS_BE	fr	Ciseler la menthe			
+TECHNIQUE_102515	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148449.jpg		GS_BE	fr	Ciseler une Ã©chalote			
+TECHNIQUE_102517	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148453.jpg		GS_BE	fr	Couper les poireau en julienne			
+TECHNIQUE_102518	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148454.jpg		GS_BE	fr	Couper le poulet en cubes			
+TECHNIQUE_102519	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148455.jpg		GS_BE	fr	Couper le poulet en lamelles			
+TECHNIQUE_102520	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148456.jpg		GS_BE	fr	Couper les blancs de poireau en julienne			
+TECHNIQUE_102521	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148457.jpg		GS_BE	fr	Couper les carottes en dÃ©s			
+TECHNIQUE_102523	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148459.jpg		GS_BE	fr	Couper les carottes en julienne			
+TECHNIQUE_102526	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148461.jpg		GS_BE	fr	Couper les mangues en dÃ©s			
+TECHNIQUE_102528	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148469.jpg		GS_BE	fr	Couper les poires en cubes			
+TECHNIQUE_102529	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148466.jpg		GS_BE	fr	Couper les pommes de terre en cubes			
+TECHNIQUE_102530	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148472.jpg		GS_BE	fr	DÃ©cortiquer les crevettes			
+TECHNIQUE_102532	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148474.jpg		GS_BE	fr	DÃ©germer de l'ail			
+TECHNIQUE_102539	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148482.jpg		GS_BE	fr	Emincer les champignons			
+TECHNIQUE_102540	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148483.jpg		GS_BE	fr	Emincer les Ã©chalotes			
+TECHNIQUE_102541	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148484.jpg		GS_BE	fr	Emincer les oignons			
+TECHNIQUE_102542	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148492.jpg		GS_BE	fr	Enlever la peau du saumon			
+TECHNIQUE_102547	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148489.jpg		GS_BE	fr	HÃ¢cher le persil			
+TECHNIQUE_102549	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148491.jpg		GS_BE	fr	Lever un suprÃªme d'agrume			
+TECHNIQUE_102554	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148497.jpg		GS_BE	fr	Peler l'ananas			
+TECHNIQUE_102555	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148498.jpg		GS_BE	fr	Ramollir la gÃ©latine			
+TECHNIQUE_102556	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148499.jpg		GS_BE	fr	RÃ¢per du gingembre			
+TECHNIQUE_102557	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148500.jpg		GS_BE	fr	RÃ©aliser des boulettes			
+TECHNIQUE_102558	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148501.jpg		GS_BE	fr	Tailler du gingembre en julienne			
+TECHNIQUE_102561	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148504.jpg		GS_BE	fr	Tailler un poivron			
+TECHNIQUE_102432	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/134547.jpg		GS_GB	en	Chopped carrots	GS_AU	en	Chopped carrots
+TECHNIQUE_102435	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/134557.jpg		GS_GB	en	Chop the leek	GS_AU	en	Chop the leek
+TECHNIQUE_102436								
+TECHNIQUE_102437	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/140057.jpg		GS_GB	en	Cut leeks into strips	GS_AU	en	Cut leeks into strips
+TECHNIQUE_102438	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/140066.jpg		GS_GB	en	Slice carrots into thin slices	GS_AU	en	Slice carrots into thin slices
+TECHNIQUE_102440	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/140149.jpg		GS_GB	en	Mix white preparation	GS_AU	en	Mix white preparation
+TECHNIQUE_102441	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/140330.jpg		GS_GB	en	Mixture of orange			
+TECHNIQUE_102091	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/109767.jpg		GS_BE	nl	Ontpit komkommer			
+TECHNIQUE_102535	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148477.jpg		GS_BE	fr	Emincer le chou fleur			
+TECHNIQUE_102543	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148486.jpg		GS_BE	fr	EpÃ©piner le concombre			
+TECHNIQUE_102546	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148488.jpg		GS_BE	fr	HÃ¢cher le chocolat			
+TECHNIQUE_102550	http://cookeo.prod.apipro.groupe-seb.com/thumbs/original/148493.jpg		GS_BE	fr	Mixer contenu blanc beige			
