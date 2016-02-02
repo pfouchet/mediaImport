@@ -1,0 +1,38 @@
+{  
+   "parameters":{  
+      "COEF_1":3891,
+      "COEF_2":-8369,
+      "COEF_3":5035,
+      "COEF_4":-10211,
+      "COEF_5":1228,
+      "COEF_6":-1339,
+      "COEF_7":867,
+      "COEF_8":-13403,
+      "COEF_9":1333,
+      "COEF_10":5990,
+      "T1":90,
+      "T2":95,
+      "T3":100,
+      "REGUL_A":220,
+      "REGUL_B":190,
+      "REGUL_C":150,
+      "FROZEN":0,
+      "FROZEN_F1":1,
+      "FROZEN_F2":12,
+      "CHARGE":0,
+      "CRTL_TIME":1648,
+      "FCT_TYPE":0,
+      "DASHBOARD_DISPLAY":"X",
+      "DASHBOARD_POSITION":2
+   },
+   "programCode":"P2",
+   "cookingLabels":{  
+      "GS_FR":{  
+         "fr":{  
+            "zone_1":"Saignant",
+            "zone_2":"A point",
+            "zone_3":"Bien cuit"
+         }
+      }
+   }
+}

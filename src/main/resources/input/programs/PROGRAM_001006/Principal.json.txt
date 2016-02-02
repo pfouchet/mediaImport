@@ -1,0 +1,50 @@
+{  
+   "parameters":{  
+      "COEF_1":-760,
+      "COEF_2":1150,
+      "COEF_3":0,
+      "COEF_4":1350,
+      "COEF_5":0,
+      "COEF_6":0,
+      "COEF_7":0,
+      "COEF_8":0,
+      "COEF_9":0,
+      "COEF_10":0,
+      "T1":50,
+      "T2":60,
+      "T3":70,
+      "REGUL_A":220,
+      "REGUL_B":190,
+      "REGUL_C":200,
+      "FROZEN":0,
+      "FROZEN_F1":1,
+      "FROZEN_F2":12,
+      "CHARGE":0,
+      "CRTL_TIME":656,
+      "FCT_TYPE":90,
+      "DASHBOARD_DISPLAY":"X",
+      "DASHBOARD_POSITION":3
+   },
+   "programCode":"P3",
+   "cookingLabels":{  
+      "GS_CA":{  
+         "fr":{  
+            "zone_1":"Saignant",
+            "zone_2":"A point",
+            "zone_3":"Bien cuit"
+         },
+         "en":{  
+            "zone_1":"Rare",
+            "zone_2":"Medium",
+            "zone_3":"Well-done"
+         }
+      },
+      "GS_US":{  
+         "en":{  
+            "zone_1":"Rare",
+            "zone_2":"Medium",
+            "zone_3":"Well-done"
+         }
+      }
+   }
+}
