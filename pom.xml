@@ -16,7 +16,7 @@
 
 	<properties>
 		<bus.version>3.5.0</bus.version>
-		<ofs-core-model.version>5.3.6.2</ofs-core-model.version>
+		<ofs-core-model.version>5.4</ofs-core-model.version>
 		<java.version>1.7</java.version>
 	</properties>
 
@@ -86,18 +86,6 @@
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.3.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>com.groupeseb.bus</groupId>
-			<artifactId>common-api-parser</artifactId>
-			<version>${bus.version}</version>
-			<exclusions>
-				<exclusion>
-					<groupId>*</groupId>
-					<artifactId>*</artifactId>
-				</exclusion>
-			</exclusions>
 		</dependency>
 
 		<dependency>

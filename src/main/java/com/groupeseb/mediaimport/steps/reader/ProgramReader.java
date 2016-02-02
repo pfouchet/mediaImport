@@ -22,13 +22,13 @@ public class ProgramReader implements IReader {
 
 		List<DTO> appliances = new ArrayList<>();
 
-		for (int i = 0; i < 10000; i++) {
+		for (int i = 1000; i < 2000; i++) {
 
-			InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_%s/Principal.json",
+			InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/Principal.json.txt",
 			                                                                  filename,
 			                                                                  i));
 			if (stream != null) {
-				appliances.add(new ProgramDTO("PROGRAM_" + i, "text", stream));
+				appliances.add(new ProgramDTO("PROGRAM_00" + i, "txt", stream));
 			}
 		}
 
