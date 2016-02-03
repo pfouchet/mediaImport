@@ -1,5 +1,7 @@
 package com.groupeseb.mediaimport.apis;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.squareup.okhttp.OkHttpClient;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,6 +11,7 @@ import org.springframework.stereotype.Component;
 import retrofit.RequestInterceptor;
 import retrofit.RestAdapter;
 import retrofit.client.OkClient;
+import retrofit.converter.GsonConverter;
 
 import java.util.concurrent.TimeUnit;
 
@@ -32,6 +35,8 @@ public class DCPConfiguration {
 	@Bean
 	DCP dcp() {
 
+		Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd'T'HH:mm:ss").create();
+
 		OkHttpClient httpClient = new OkHttpClient();
 		httpClient.setConnectTimeout(100, TimeUnit.MINUTES);
 		httpClient.setReadTimeout(100, TimeUnit.MINUTES);
@@ -49,6 +54,7 @@ public class DCPConfiguration {
 				.setClient(new OkClient(httpClient))
 				.setLogLevel(RestAdapter.LogLevel.FULL)
 				.setLog(new ApplicationLog())
+				.setConverter(new GsonConverter(gson))
 				.build().create(DCP.class);
 	}
 
