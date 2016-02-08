@@ -2,6 +2,7 @@ package com.groupeseb.mediaimport.apis;
 
 import com.groupeseb.bus.commonapi.model.lite.MediaLite;
 import com.groupeseb.mediaimport.model.LKVFileDTO;
+import com.groupeseb.mediaimport.model.MediaDTO;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
@@ -74,9 +75,15 @@ public class MediaReader {
 		                                                 IOUtils.toByteArray(dto.getInputStream())));
 	}
 
-	public MediaLite createText(LKVFileDTO dto) throws IOException {
+	public MediaLite createText(MediaDTO dto) throws IOException {
 		return dcpMedia.createMedia(new MediaTypedOutput(dto.getExtension(),
 		                                                 MediaType.parse("text/plain"),
+		                                                 IOUtils.toByteArray(dto.getInputStream())));
+	}
+
+	public MediaLite createMedia(MediaDTO dto) throws IOException {
+		return dcpMedia.createMedia(new MediaTypedOutput(dto.getExtension(),
+		                                                 MediaType.parse("image/png"),
 		                                                 IOUtils.toByteArray(dto.getInputStream())));
 	}
 
