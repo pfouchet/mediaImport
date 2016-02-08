@@ -40,6 +40,7 @@ public class ProgramTransformer implements ITransformer {
 			program.setExtraDataFile(mediaReader.createText(dto.getExtraData()).getOriginal());
 		}
 
+		program.getMedias().clear();
 		for (MediaDTO mediaDTO : dto.getMedia()) {
 			program.getMedias().add(createResourceMedia(mediaDTO));
 		}

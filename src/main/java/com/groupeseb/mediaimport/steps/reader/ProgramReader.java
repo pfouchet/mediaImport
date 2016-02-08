@@ -62,7 +62,7 @@ public class ProgramReader implements IReader {
 	}
 
 	private MediaDTO getOtherImage(String i, String directory, String name) {
-		InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/%s.png",
+		InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/%s",
 		                                                                  directory,
 		                                                                  i,
 		                                                                  name));
