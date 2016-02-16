@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class MediaReaderTest {
 
-	@Test
+//	@Test
 	public void test() throws IOException {
 //		MediaReader mediaReader = new MediaReader();
 
