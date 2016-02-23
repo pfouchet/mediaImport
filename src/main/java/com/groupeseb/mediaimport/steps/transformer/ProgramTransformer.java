@@ -7,6 +7,7 @@ import com.groupeseb.mediaimport.model.DTO;
 import com.groupeseb.mediaimport.model.MediaDTO;
 import com.groupeseb.mediaimport.model.ProgramDTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
+import com.groupeseb.mediaimport.util.DeletionLogger;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import com.groupeseb.ofs.core.model.media.Media;
 import com.groupeseb.ofs.core.model.program.Program;
@@ -39,6 +40,8 @@ public class ProgramTransformer implements ITransformer {
 		if (dto.getExtraData() != null) {
 			program.setExtraDataFile(mediaReader.createText(dto.getExtraData()).getOriginal());
 		}
+
+		DeletionLogger.logDataForDeletion(program.getMedias());
 
 		program.getMedias().clear();
 		for (MediaDTO mediaDTO : dto.getMedia()) {

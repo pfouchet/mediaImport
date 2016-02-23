@@ -8,6 +8,7 @@ import com.groupeseb.mediaimport.exception.nonterminal.MediaImportException;
 import com.groupeseb.mediaimport.model.DTO;
 import com.groupeseb.mediaimport.model.TechniqueDTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
+import com.groupeseb.mediaimport.util.DeletionLogger;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import com.groupeseb.ofs.core.model.media.Media;
 import com.groupeseb.ofs.core.model.resourcemedia.ResourceMedia;
@@ -37,6 +38,8 @@ public class TechniqueTransformer implements ITransformer {
 
 	public Technique createTechnique(TechniqueDTO techniqueDTO) throws MediaImportException, IOException {
 		Technique technique = dcp.getTechnique(techniqueDTO.getKey());
+
+		DeletionLogger.logDataForDeletion(technique.getMedias());
 		TechniqueDTO.ResourceMediaDTO resourceMediaDTO = techniqueDTO.getMedias().get(0);
 
 		technique.getMedias().clear();
