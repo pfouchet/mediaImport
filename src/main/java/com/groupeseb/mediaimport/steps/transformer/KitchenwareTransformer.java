@@ -7,6 +7,7 @@ import com.groupeseb.mediaimport.model.DTO;
 import com.groupeseb.mediaimport.model.KitchenwareDTO;
 import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
+import com.groupeseb.mediaimport.util.DeletionLogger;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import com.groupeseb.ofs.core.model.kitchenware.Kitchenware;
 import com.groupeseb.ofs.core.model.media.Media;
@@ -44,6 +45,8 @@ public class KitchenwareTransformer implements ITransformer {
 
 	public Kitchenware createKitchenware(LKVFileDTO dto) throws IOException {
 		Kitchenware lkv = dcp.getKitchenware(dto.getKey());
+
+		DeletionLogger.logDataForDeletion(lkv.getMedias());
 
 		lkv.getMedias().clear();
 

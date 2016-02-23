@@ -25,7 +25,7 @@ public class DCPConfiguration {
 
 	@Autowired
 	public DCPConfiguration(@Value("${dcp.host:http://dev.api.openfoodsystem.com/common-api}") String host,
-	                        @Value("puVdQHQNS3rjx2e8RDWMhkTmyGkXLCdC") String apiKey
+	                        @Value("6oS72zebYRv590jA5MhwE8W84YgXd4GL") String apiKey
 	) {
 		this.apiKey = apiKey;
 		this.host = host;

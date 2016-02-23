@@ -7,6 +7,7 @@ import com.groupeseb.mediaimport.model.ApplianceDTO;
 import com.groupeseb.mediaimport.model.LKVFileDTO;
 import com.groupeseb.mediaimport.model.DTO;
 import com.groupeseb.mediaimport.steps.mapper.Mapper;
+import com.groupeseb.mediaimport.util.DeletionLogger;
 import com.groupeseb.ofs.core.model.appliance.Appliance;
 import com.groupeseb.ofs.core.model.commontypes.LocalizedKeyValue;
 import com.groupeseb.ofs.core.model.media.Media;
@@ -45,6 +46,8 @@ public class ApplianceTransformer implements ITransformer {
 
 	public Appliance createAppliance(LKVFileDTO dto) throws IOException {
 		Appliance appliance = dcp.getAppliance(dto.getKey());
+
+		DeletionLogger.logDataForDeletion(appliance.getMedias());
 
 		appliance.getMedias().clear();
 

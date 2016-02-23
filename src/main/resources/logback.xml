@@ -5,6 +5,10 @@
 
     <include resource="appenders.xml"/>
 
+    <logger name="com.groupeseb.mediaimport.util.DeletionLogger" level="ALL" additivity="false">
+        <appender-ref ref="S4_GARBAGE_FILE"/>
+    </logger>
+
     <root level="INFO">
         <appender-ref ref="APPLICATION_FILE"/>
         <appender-ref ref="STDOUT"/>
