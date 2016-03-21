@@ -22,29 +22,29 @@
       "CHARGE":0,
       "CRTL_TIME":656,
       "FCT_TYPE":90,
-      "DASHBOARD_DISPLAY":"X",
+      "DASHBOARD_DISPLAY":true,
       "DASHBOARD_POSITION":3
    },
    "programCode":"P3",
    "cookingLabels":{  
       "GS_CA":{  
-         "fr":{  
-            "zone_1":"Saignant",
-            "zone_2":"A point",
-            "zone_3":"Bien cuit"
-         },
-         "en":{  
-            "zone_1":"Rare",
-            "zone_2":"Medium",
-            "zone_3":"Well-done"
-         }
+         "fr":[  
+            "Saignant",
+            "Grillé",
+            "Croustillant"
+         ],
+         "en":[  
+            "Rare",
+            "Grilled",
+            "Crispy"
+         ]
       },
       "GS_US":{  
-         "en":{  
-            "zone_1":"Rare",
-            "zone_2":"Medium",
-            "zone_3":"Well-done"
-         }
+         "en":[  
+            "Rare",
+            "Grilled",
+            "Crispy"
+         ]
       }
    }
 }

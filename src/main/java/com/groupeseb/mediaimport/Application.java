@@ -60,7 +60,7 @@ public class Application implements CommandLineRunner {
 		int failCounter = 0;
 		int skipCounter = 0;
 		for (DTO dto : dtos) {
-			try {
+			try { // stop TECHNIQUE_101875
 				writer.write(transformerPicker.transform(dto));
 			} catch (MediaImportException | IOException | RetrofitError e) {
 				log.error("Exception occurred while handling {}", dto.getKey(), e);

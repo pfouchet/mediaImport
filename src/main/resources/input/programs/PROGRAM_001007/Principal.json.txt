@@ -22,29 +22,29 @@
       "CHARGE":0,
       "CRTL_TIME":1537,
       "FCT_TYPE":0,
-      "DASHBOARD_DISPLAY":"X",
+      "DASHBOARD_DISPLAY":true,
       "DASHBOARD_POSITION":4
    },
    "programCode":"P4",
    "cookingLabels":{  
       "GS_CA":{  
-         "fr":{  
-            "zone_1":"Saignant",
-            "zone_2":"A point",
-            "zone_3":"Bien cuit"
-         },
-         "en":{  
-            "zone_1":"Rare",
-            "zone_2":"Medium",
-            "zone_3":"Well-done"
-         }
+         "fr":[  
+            "Saignant",
+            "A point",
+            "Bien cuit"
+         ],
+         "en":[  
+            "Rare",
+            "Medium",
+            "Well-done"
+         ]
       },
       "GS_US":{  
-         "en":{  
-            "zone_1":"Rare",
-            "zone_2":"Medium",
-            "zone_3":"Well-done"
-         }
+         "en":[  
+            "Rare",
+            "Medium",
+            "Well-done"
+         ]
       }
    }
 }

@@ -22,17 +22,17 @@
       "CHARGE":1,
       "CRTL_TIME":1112,
       "FCT_TYPE":0,
-      "DASHBOARD_DISPLAY":"X",
+      "DASHBOARD_DISPLAY":true,
       "DASHBOARD_POSITION":5
    },
    "programCode":"P5",
    "cookingLabels":{  
       "GS_FR":{  
-         "fr":{  
-            "zone_1":"Saignant",
-            "zone_2":"A point",
-            "zone_3":"Bien cuit"
-         }
+         "fr":[  
+            "Saignant",
+            "A point",
+            "Bien cuit"
+         ]
       }
    }
 }
