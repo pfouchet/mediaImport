@@ -37,9 +37,9 @@ public class ProgramTransformer implements ITransformer {
 	public Program createProgram(ProgramDTO dto) throws IOException {
 		Program program = dcp.getProgram(dto.getKey());
 
-		if (dto.getExtraData() != null) {
-			program.setExtraDataFile(mediaReader.createText(dto.getExtraData()).getOriginal());
-		}
+//		if (dto.getExtraData() != null) {
+//			program.setExtraDataFile(mediaReader.createText(dto.getExtraData()).getOriginal());
+//		}
 
 		DeletionLogger.logDataForDeletion(program.getMedias());
 

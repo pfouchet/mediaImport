@@ -7,7 +7,13 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Component;
 
-import java.io.InputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -23,54 +29,29 @@ public class ProgramReader implements IReader {
 
 		List<DTO> programs = new ArrayList<>();
 
-		for (int i = 1000; i < 2000; i++) {
-
-			String index = String.valueOf(i);
-			MediaDTO extraData = getExtraData(index, filename);
-			MediaDTO principal = getMainImage(index, filename);
-			MediaDTO second = getOtherImage(index, filename, "Ingredients.png");
-
-			if (extraData != null || principal != null || second != null) {
-				programs.add(new ProgramDTO(extraData, "PROGRAM_00" + index, principal, second));
+		try {
+			for (Path path : Files.newDirectoryStream(Paths.get("src/main/resources", filename))) {
+				MediaDTO principal = getImage(path.resolve("Principal.png"), true);
+				MediaDTO second = getImage(path.resolve("Ingredients.png"), false);
+				if (principal != null || second != null) {
+					programs.add(new ProgramDTO(StringUtils.substringAfterLast(path.toString(), File.separator),
+					                            principal,
+					                            second));
+				}
 			}
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 
 		return programs;
 	}
 
-	private MediaDTO getExtraData(String i, String directory) {
-		InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/Principal.json.txt",
-		                                                                  directory,
-		                                                                  i));
-		if (stream != null) {
-			return new MediaDTO("txt", stream, false);
+	private MediaDTO getImage(Path path, boolean isCover) {
+		try {
+			return new MediaDTO("png", new FileInputStream(path.toFile()), isCover);
+		} catch (FileNotFoundException e) {
+			return null;
 		}
-
-		return null;
-	}
-
-	private MediaDTO getMainImage(String i, String directory) {
-		InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/Principal.png",
-		                                                                  directory,
-		                                                                  i));
-		if (stream != null) {
-			return new MediaDTO("png", stream, true);
-		}
-
-		return null;
-
-	}
-
-	private MediaDTO getOtherImage(String i, String directory, String name) {
-		InputStream stream = getClass().getResourceAsStream(String.format("/%s/PROGRAM_00%s/%s",
-		                                                                  directory,
-		                                                                  i,
-		                                                                  name));
-		if (stream != null) {
-			return new MediaDTO("png", stream, false);
-		}
-
-		return null;
 	}
 
 	@Override
