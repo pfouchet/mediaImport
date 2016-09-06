@@ -1,12 +1,10 @@
 package com.groupeseb.mediaimport.steps;
 
-import org.junit.Test;
-
 import java.io.IOException;
 
 public class MediaReaderTest {
 
-	@Test
+//	@Test
 	public void test() throws IOException {
 //		MediaReader mediaReader = new MediaReader();
 
