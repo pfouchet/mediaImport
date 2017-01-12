@@ -42,6 +42,11 @@ public class TechniqueTransformer implements ITransformer {
 		DeletionLogger.logDataForDeletion(technique.getMedias());
 		TechniqueDTO.ResourceMediaDTO resourceMediaDTO = techniqueDTO.getMedias().get(0);
 
+		// HOTFIX Format was broken when TechniqueWrapper was introduced in common-api.
+		// SO here we ensure key is set.
+		// Since it will be in PATCH mode, we will just push key and media attribute.
+		// dcp.getTechnique was only used to be sure technique trully exists.
+		technique.setKey(techniqueDTO.getKey());
 		technique.getMedias().clear();
 		technique.getMedias().add(createResourceMedia(resourceMediaDTO));
 
