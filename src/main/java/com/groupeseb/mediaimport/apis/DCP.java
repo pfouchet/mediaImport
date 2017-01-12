@@ -9,7 +9,7 @@ import retrofit.client.Response;
 import retrofit.http.Body;
 import retrofit.http.GET;
 import retrofit.http.Headers;
-import retrofit.http.PUT;
+import retrofit.http.PATCH;
 import retrofit.http.Path;
 
 public interface DCP {
@@ -29,7 +29,7 @@ public interface DCP {
 	@GET("/references/kitchenwares/{id}")
 	Kitchenware getKitchenware(@Path("id") String id);
 
-	@PUT("/references/{resource}/{lkvKey}")
+	@PATCH("/references/{resource}/{lkvKey}")
 	@Headers("Content-type: application/x-extended+json; charset=utf-8")
 	Response updateLKV(@Path("resource") String resource, @Path("lkvKey") String lkvKey, @Body LocalizedKeyValue lkv);
 }
